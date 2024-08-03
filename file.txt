@@ -1,0 +1,2834 @@
+PART 
+1STRUCTURE AND FUNCTION OF 
+BONE, JOINTS, AND CONNECTIVE 
+TISSUE
+1 Biology of the Normal 
+Joint
+STEVEN R. GOLDRING • MARY B. GOLDRING
+Joints also can be classified according to the connective 
+tissues present. Symphyses have a fibrocartilaginous disk 
+separating bone ends that are joined by firm ligaments (e.g., 
+symphysis pubis and intervertebral joints). In synchondro -
+ses, the bone ends are covered with articular cartilage, but 
+no synovium or significant joint cavity is present (e.g., ster -
+nomanubrial joint). In syndesmoses, the bones are joined 
+directly by fibrous ligaments without a cartilaginous inter -
+face (the distal tibiofibular articulation is the only joint of 
+this type outside the cranial vault). In synostoses, bone 
+bridges are formed between bones, producing ankylosis.
+Synovial joints, which are classified further according to 
+their shapes, include ball-and-socket (hip), hinge (inter -
+phalangeal), saddle (first carpometacarpal), and plane 
+(patellofemoral) joints. These configurations reflect varying 
+functions, as the shapes and sizes of opposing surfaces deter -
+mine the direction and extent of motion. The various 
+designs permit flexion, extension, abduction, adduction, or 
+rotation. Certain joints can act in one (humeroulnar), two 
+(wrist), or three (shoulder) axes of motion.
+This chapter concentrates on the developmental biology 
+and relationship between structure and function of a “pro -
+totypic,” “normal” human diarthrodial joint—the joint 
+most likely to develop arthritis. Most research that has been 
+done concerns the knee because of its accessibility, but 
+other joints are described when appropriate.
+DEVELOPMENTAL BIOLOGY OF THE 
+DIARTHRODIAL JOINT
+Skeletal development is initiated by the differentiation of 
+mesenchymal cells that arise from three sources: (1) neural 
+crest cells of the neural ectoderm that gives rise to cranio -
+facial bones; (2) the sclerotome of the paraxial mesoderm, 
+or somite compartment, which forms the axial skeleton; and 
+(3) the somatopleure of the lateral plate mesoderm, which 
+yields the skeleton of the limbs.2 The appendicular skeleton 
+develops in the human embryo from limb buds, which first 
+are visible at around 4 weeks of gestation. Structures resem -
+bling adult joints are generated at approximately 4 to 7 
+weeks of gestation.3 Many other crucial phases of musculo -
+skeletal development follow, including vascularization of KEY POINTS
+Condensation of mesenchymal cells, which differentiate into 
+chondrocytes, results in formation of cartilage anlagen, 
+which provide the template for the developing skeleton.
+During development of the synovial joint, growth 
+differentiation factor-5 regulates interzone formation, and 
+interference with movement of the embryo during 
+development impairs joint cavitation.
+Members of the bone morphogenetic protein/transforming 
+growth factor- β, fibroblast growth factor, and Wnt families 
+and the parathyroid hormone–related peptide/Indian 
+hedgehog axis are essential for joint development and 
+growth plate formation.
+The synovial lining of diarthrodial joints is a thin layer of cells 
+lacking a basement membrane and consisting of two 
+principal cell types: macrophages and fibroblasts.
+The articular cartilage receives its nutritional requirements 
+via diffusion from the synovial fluid, and interaction of the 
+cartilage with components of the synovial fluid contributes 
+to the unique low-friction surface properties of the articular 
+cartilage.
+CLASSIFICATION OF JOINTS
+Human joints provide the structures by which bones join 
+with one another and may be classified according to histo -
+logic features of the union and range of joint motion. Three 
+classes of joint design have been identified: (1) synovial or 
+diarthrodial joints ( Figure 1-1 ), which articulate with free 
+movement, have a synovial membrane lining the joint 
+cavity, and contain synovial fluid; (2) amphiarthroses, in 
+which adjacent bones are separated by articular cartilage or 
+a fibrocartilage disk and are bound by firm ligaments permit -
+ting limited motion (e.g., pubic symphysis, intervertebral 
+disks of vertebral bodies, distal tibiofibular articulation, sac -
+roiliac joint articulation with pelvic bones); and (3) synar -
+throses, which are found only in the skull (suture lines), 
+where thin, fibrous tissue separates adjoining cranial plates 
+that interlock to prevent detectable motion before the end 
+of normal growth, yet permit growth in childhood and 
+adolescence.1
+12 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+Figure 1-1  A normal human interphalangeal joint, in sagittal section, 
+as an example of a synovial, or diarthrodial, joint. The tidemark repre -
+sents the calcified cartilage that bonds articular cartilage to the subchon -
+dral bone plate. (From Sokoloff L, Bland JH: The musculoskeletal system,  
+Baltimore, 1975, Williams & Wilkins.  © 1975, Williams & Wilkins Co, 
+Baltimore.)
+Tide markCartilage
+Bone
+Periosteum
+Capsule
+Synovium Figure 1-2  The development of a synovial joint. A, Condensation. 
+Joints develop from the blastema, not the surrounding mesenchyme.  
+B, Chondrification and formation of the interzone. The interzone remains 
+avascular and highly cellular. C, Formation of synovial mesenchyme. 
+Synovial mesenchyme forms from the periphery of the interzone and is 
+invaded by blood vessels. D, Cavitation. Cavities are formed in the central 
+and peripheral interzone and merge to form the joint cavity. E, The 
+mature joint. (From O’Rahilly R, Gardner E: The embryology of movable 
+joints. In Sokoloff L, editor: The joints and synovial fluid, vol 1, New York, 
+1978, Academic Press.)Mesenchyme
+BlastemaHomogeneous
+interzone
+CartilagePerichondrium3-Layered
+ interzone Synovial
+mesenchyme
+Cavities ArticularcapsuleArticular  cavitySynovial
+tissueand foldA B C
+D E
+epiphyseal cartilage (8 to 12 weeks), appearance of villous 
+folds in synovium (10 to 12 weeks), evolution of bursae (3 
+to 4 months), and appearance of periarticular fat pads (4 to 
+5 months).
+The upper limbs develop approximately 24 hours earlier 
+than analogous portions of the lower limbs. Proximal struc -
+tures, such as the glenohumeral joint, develop before more 
+distal ones, such as the wrist and hand. As a consequence, 
+insults to embryonic development during limb formation 
+affect a more distal portion of the upper limb than of the 
+lower limb. Long bones are formed as a result of replacement 
+of the cartilage template by endochondral ossification. The 
+stages of limb development are well described by O’Rahilly 
+and Gardner3,4 and are shown in Figure 1-2 . The develop -
+mental sequence of events occurring during synovial joint 
+formation and some of the regulatory factors and extracel -
+lular matrix components involved are summarized in Figures 
+1-3 and 1-4 .
+Interzone Formation and Joint Cavitation
+The morphology of the developing synovial joint and the 
+process of joint cavitation have been described in many 
+classic studies done on the limbs of mammalian and avian 
+embryos.5 In the human embryo, cartilage condensations, 
+or chondrifications, can be detected at stage 17, when the 
+embryo is small, approximately 11.7 mm long.3,4 In the 
+region of the future joint, following formation of the homo -
+geneous chondrogenic interzone at 6 weeks (stages 18 and 
+19), a three-layered interzone is formed at approximately 7 
+weeks (stage 21), which consists of two chondrogenic, perichondrium-like layers that cover the opposing surfaces 
+of the cartilage anlagen and are separated by a narrow band 
+of densely packed cellular blastema that remains and forms 
+the interzone. Cavitation begins in the central interzone at 
+about 8 weeks (stage 23).
+Although these cellular events associated with joint for -
+mation have been recognized for many years, only recently 
+have the genes regulating these processes been elucidated. 
+These genes include growth differentiation factor (GDF)-5, 
+Wnt-14, bone morphogenetic protein (BMP)-2, BMP-4, 
+BMP-6, BMP-7, and the GDF-BMP antagonists.5-8 In addi -
+tion, joint formation is accompanied by the expression of 
+several fibroblast growth factor (FGF) family members, 
+including FGF-2 and FGF-4.9 The balance of signaling 
+between BMP and FGF determines the rate of proliferation, 
+adjusting the pace of differentiation.10 T wo transcription 
+factors, Cux-1, a homeobox factor, and the ETS factor 
+ERG/C-1-1, are expressed concurrently with GDF-5 and 
+Wnt-14 at the onset of joint formation.11,12 Hartmann 
+and Tabin13 have proposed two major roles for Wnt-14. 
+First, it acts at the onset of joint formation as a negative 
+regulator of chondrogenesis. Second, it facilitates interzone 
+formation and cavitation by inducing expression of GDF-5 
+(also known as cartilage-derived morphogenetic protein-1  
+[CDMP-1]), Wnt-4, chordin, and the hyaluronan receptor, 
+CD44.13-15 Paradoxically, application of GDF-5 to develop -
+ing joints in mouse embryo limbs in organ culture causes 
+joint fusion,16 suggesting that temporospatial interactions 
+among distinct cell populations are important for the correct 3 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+characterize the matrix produced by mesenchymal cells, 
+which switch to the production of types II, IX, and XI col -
+lagens that typify the cartilaginous matrix at the time of 
+condensation.22 The messenger RNAs (mRNAs) encoding 
+the small proteoglycans, biglycan and decorin, may be 
+expressed at this time, but the proteins do not appear until 
+after cavitation in the regions destined to become articular response. The current view is that GDF-5 is required at early 
+stages of condensation, where it stimulates recruitment and 
+differentiation of chondrogenic cells, and later, when its 
+expression is restricted to the interzone.
+The distribution of collagen types and keratan sulfate in 
+developing avian and rodent joints has been characterized 
+by immunohistochemistry.17-21 Collagen types I and III Figure 1-3  The stages of diarthrodial joint formation and the temporal pattern of expression of the genes involved in regulation at different 
+stages. BmP, bone morphogenetic protein; COmP, cartilage oligomeric matrix protein; FgF, fibroblast growth factor; FgFR, fibroblast growth factor 
+receptor; Hh, hedgehog; Hox, homeobox; IgF, insulin-like growth factor; Ihh, Indian hedgehog; lef, lymphoid enhancer binding factor; Ptc, patched; 
+PTHrP, parathyroid hormone–related protein; Runx, runt domain binding protein; Sox, SRy-related high-mobility group-box protein; Stat, signal trans -
+ducer and activator of transcription; TCF, T cell–specific factor; TgF- β, transforming growth factor- β; VEgF, vascular endothelial growth factor; Wnt, 
+wingless type. 
+Mesenchymal cell
+condensationChondrocyte
+differentiation Chondrocyte
+proliferationChondrocyte
+hypertrophy and
+vascular invasion Ossification
+TGF-β
+Wnt-3A, 7A
+FGF-2, 4, 8,10
+Sonic Hh
+BMP-2, 4, 7
+HoxA, HoxD
+Sox9
+Gli3IGF-1
+FGF-2/FGFR2BMP-2, 4, 7, 14
+Sox9, 5, 6FGF-18/FGFR3
+BMP-2, 7
+PTHrP
+Ihh/Ptc
+Stat1
+Gli3, 2
+Runx2
+Fra2/JunDVEGF
+FGF-2/FGFR1
+Wnt14/
+β-catenin
+Runx2
+OsterixTCF/Lef1Epiphyseal
+ossification
+center
+(secondary)
+Diaphyseal
+ossification
+center
+(primary)
+Growth
+plateBone
+collarPerichondriumFGF-2
+BMPs
+FGF-18
+FGF-2
+Ptc Gli
+PTHrP
+BMP-7
+Ihh
+BMP-2
+BMP-6FGFR2
+FGFR3
+FGFR1Periarticular
+(resting)
+Proliferating
+Prehypertrophic
+HypertrophicCollagen II, IX, XI
+Aggrecan
+COMP
+Collagen XOsteocalcin
+Figure 1-4  Development of long bones from cartilage anlagen. BmP, bone morphogenetic protein; C-1-1, Erg3 variant; CD44, cell determinant 44; 
+Cux, cut-repeat homeobox protein; Erg5, ETS-related gene 5; FgF, fibroblast growth factor; gDF, growth and differentiation factor; gli, glioma-
+associated oncogene homolog; Hox, homeobox; IgF, insulin-like growth factor; Ihh, Indian hedgehog; lmx1b, lIm homeodomain transcription factor 
+1b; PTHrP, parathyroid hormone–related protein; RA, retinoic acid; r-Fng, radical fringe; Runx, runt domain binding protein; Shh, Sonic hedgehog; Sox, 
+SRy-related high-mobility group-box protein; TgF- β, transforming growth factor- β; Wnt, wingless type. 
+TGF-β
+FGF-2,4,8,10
+Wnt-3A,7A
+Shh
+BMP-2,4,7
+Gli3
+HoxA, D
+r-Fng
+Lmx1b
+RASox9,5,6
+IGF-1
+FGF-2,18
+BMP-2,4,7,14
+PTHrP
+IhhSubperiosteal
+ringEpiphyseal
+ossification
+centerDiaphyseal
+ossification
+center
+Wnt14
+GDF-5
+BMP-2,4
+FGF-2
+Runx2
+Cux1
+Erg5Hyaluronan
+CD44C-1-1
+Articular
+cartilage
+Joint
+maturationCavitation Interzone
+formationJoint initiation
+and ossificationInterzone formation
+and chondrocyte
+differentiationMesenchymal
+condensationSynovial
+capsule4 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+programmed cell death (apoptosis),27 some investigators 
+have found no evidence of DNA fragmentation preceding 
+cavitation.24,25,28,29 Evidence that metalloproteinases are 
+involved in loss of tissue strength in the region undergoing 
+cavitation is also lacking.30 Instead, the actual joint cavity 
+seems to be formed by mechanospatial changes induced by 
+the synthesis of hyaluronan via uridine diphosphoglucose 
+dehydrogenase (UDPGD) and hyaluronan synthase. The 
+interaction of hyaluronan with its cell surface receptor, 
+CD44, modulates cell migration, but it is thought that the 
+accumulation of hyaluronan and the associated mechanical 
+influences play a major role in forcing the cells apart and 
+inducing rupture of the intervening extracellular matrix by 
+tensile forces.20,30 This mechanism accounts for the observa -
+tion that joint cavitation is incomplete in the absence of 
+movement.31,32 Equivalent data from human embryonic cartilage.23 Interzone regions are marked by the expression 
+of type IIA collagen by chondrocyte progenitors in the 
+perichondrial layers, type IIB and XI collagens by overt 
+chondrocytes in the cartilage anlagen, and type I collagen 
+in the interzone and in the developing capsule and peri -
+chondrium ( Figure 1-5 ).24
+The interzone region contains cells in two outer layers 
+that are destined to differentiate into chondrocytes and 
+become incorporated into the epiphyses, and in a thin inter -
+mediate zone that are programmed to undergo joint cavita -
+tion and may remain as articular chondrocytes.25 Fluid and 
+macromolecules accumulate in this space, creating a nascent 
+synovial cavity. Blood vessels appear in the surrounding 
+capsulosynovial blastemal mesenchyme before separation of 
+adjacent articulating surfaces.26 Although it was first assumed 
+that these interzone cells should undergo necrosis or 
+Figure 1-5  In situ hybridization of a 13-day-old (stage 39) chicken embryo middle digit, proximal interphalangeal joint, midfrontal sections. A, Bright-
+field image shows developing joint and capsule (C). B, Equivalent paraffin section of opposite limb of same animal shows onset of cavitation laterally 
+(arrow).  C, Expression of type IIA collagen mRNA in articular surface cells, perichondrium, and capsule. D, Type IIB collagen mRNA is expressed only in 
+chondrocytes of the anlagen. E, Type XI collagen mRNA is expressed in the surface cells, perichondrium, and capsule, with lower levels in chondrocytes. 
+F, Type I collagen mRNA is present in cells of the interzone and capsule. C through F images are dark field. Calibration bar = 1 µm. (From Nalin AM, 
+Greenlee TK Jr, Sandell LJ: Collagen gene expression during development of avian synovial joints: transient expression of types II and XI collagen genes in the 
+joint capsule, Develop Dyn 203:352–362, 1995.)
+C
+C
+CC
+CA B
+C
+E FD5 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+oligomeric protein, initiate the transition from chondro-
+progenitor cells to a fully committed chondrocyte.2,36-38 
+N-cadherin and N-CAM disappear in differentiating chon -
+drocytes and are detectable later only in perichondrial cells. 
+The differentiated chondrocytes can proliferate and undergo 
+the complex process of hypertrophic maturation or remain 
+within cartilage elements in articular joints.
+Zwilling39 proposed that positional information for orga -
+nization of the limb bud was impacted by diffusible agents 
+generated at the tip of the limb bud and along its posterior 
+margin, promoting the development of a cartilaginous 
+anlage along proximal-distal and anterior-posterior axes. 
+Limb buds develop from the lateral plate mesoderm.40 Pat-
+terning of limb mesenchyme is the result of interactions 
+between the mesenchyme and the overlying epithelium.41 
+The embryonic limb possesses two signaling centers: the 
+apical ectodermal ridge (AER) and the zone of polarizing 
+activity (ZPA), which produce signals responsible for direct -
+ing proximal-distal outgrowth (AER) and anterior-posterior 
+patterning (ZPA).2,36
+Much of our current understanding of limb development 
+is based on early studies in chickens and more recently in 
+mice. Regulatory events are controlled by interacting pat -
+terning systems involving FGF , hedgehog, BMP , and Wnt 
+pathways, each of which functions sequentially over time 
+(see Figure 1-3 ).40 Wnt signaling via β-catenin is required 
+to induce FGFs, such as FGF-10 and FGF-8, which act in 
+positive feedback loops.40,42 FGF-2, FGF-4, and FGF-8 
+(induced by Wnt-3A43), from specialized epithelial cells in 
+the AER that are covering the limb bud tip, control 
+proximal-distal (shoulder/finger) outgrowth.44 The homeo -
+box (Hox) transcription factors encoded by HoxA and 
+HoxD gene clusters, which are crucial for early events of 
+limb patterning in the undifferentiated mesenchyme, are 
+required for the expression of FGF-8 and Sonic hedgehog 
+(Shh),45 and they modulate the proliferation of cells within 
+the condensations.33 Among the Hox genes, Hoxa13  and 
+Hoxd13  enhance and Hoxa11  and Hoxd11  suppress early 
+events in the formation of cartilage anlagen.
+Wnt-7A is expressed early during limb bud development, 
+where it acts to maintain Shh expression.40 Shh, produced 
+by a small group of cells in the posterior zone of the ZPA 
+(in response to retinoic acid in the mesoderm46 and FGF-4 
+in the AER47), plays a key role in directing anterior-posterior 
+(e.g., little finger/thumb) patterning46,48 and in stimulating 
+expression of BMP-2, BMP-4, BMP-7, and Hox genes.49-51 
+Shh signaling, which is required for early limb patterning, 
+but not for limb formation, is mediated by the Shh receptor 
+Patched (Ptc1), which activates another transmembrane 
+protein, Smoothened (Smo), and inhibits processing of the 
+Gli3 transcription factor to a transcriptional repressor.42,52 
+Dorsal-ventral (e.g., knuckles/palm) patterning depends on 
+secretion of Wnt-7A53 and expression of the following tran -
+scription factors: radical fringe (r-Fng) by the dorsal ecto -
+derm, and engrailed (En-1) and Lmx1b (which is induced 
+by Wnt-7A) by the ventral endoderm.42,54
+BMP-2, BMP-4, and BMP-7 coordinately regulate the 
+patterning of limb elements within condensations depend -
+ing on the temporal and spatial expression of BMP receptors 
+and BMP antagonists, such as noggin and chordin, as well 
+as the availability of SMADs (signaling mammalian homo -
+logs of Drosophila  mothers against decapentaplegic).40,55-57 joints are difficult to obtain. In all large joints in humans, 
+complete joint cavities are apparent at the beginning of the 
+fetal period.
+CARTILAGE FORMATION AND 
+ENDOCHONDRAL OSSIFICATION
+The skeleton develops from the primitive, avascular, densely 
+packed cellular mesenchyme, termed the skeletal blastema . 
+Common precursor mesenchymal cells divide into chondro -
+genic, myogenic, and osteogenic lineages that determine 
+the differentiation of cartilage centrally, muscle peripher -
+ally, and bone. Surrounding tissues, particularly epithelium, 
+influence the differentiation of mesenchymal progenitor 
+cells to chondrocytes in cartilage anlagen. The cartilaginous 
+nodules appear in the middle of the blastema; simultane -
+ously, cells at the periphery become flattened and elongated 
+to form the perichondrium. In the vertebral column, carti -
+lage disks arise from portions of the somites surrounding the 
+notochord, and nasal and auricular cartilage and the embry -
+onic epiphysis form from the perichondrium. In the limb, 
+the cartilage remains as a resting zone that later becomes 
+the articular cartilage, or it undergoes terminal hypertrophic 
+differentiation to become calcified (growth plate formation) 
+and is replaced by bone (endochondral ossification). The 
+latter process requires extracellular matrix remodeling and 
+vascularization (angiogenesis). These events are controlled 
+exquisitely by cellular interactions with the surrounding 
+matrix, growth and differentiation factors, and other envi -
+ronmental factors that initiate or suppress cellular signaling 
+pathways and transcription of specific genes in a temporo -
+spatial manner.
+Condensation and Limb Bud Formation
+Formation of cartilage anlagen occurs in four stages: (1) cell 
+migration, (2) aggregation regulated by mesenchymal-
+epithelial cell interactions, (3) condensation, and (4) overt 
+chondrocyte differentiation, or chondrification.3,4,33 Interac -
+tions with the epithelium determine mesenchymal cell 
+recruitment and migration, proliferation, and condensa -
+tion.3,4,34 The aggregation of chondroprogenitor mesenchy -
+mal cells into precartilage condensations was first described 
+by Fell33 and depends on signals initiated by cell-cell and 
+cell-matrix interactions, the formation of gap junctions, and 
+changes in the cytoskeletal architecture. Before condensa -
+tion, the prechondrocytic mesenchymal cells produce extra -
+cellular matrix that is rich in hyaluronan and type I collagen 
+and type IIA collagen, which contains the exon-2–encoded 
+aminopropeptide found in noncartilage collagens.35 The 
+initiation of condensation is associated with increased hyal -
+uronidase activity and the appearance of cell adhesion mol -
+ecules, neural cadherin (N-cadherin), and the neural cell 
+adhesion molecule (N-CAM), all of which facilitate cell-
+cell interactions.
+Before chondrocyte differentiation, cell-matrix interac -
+tions are facilitated by fibronectin binding to syndecan, 
+downregulating N-CAM and setting condensation bound -
+aries. Increased cell proliferation and extracellular matrix 
+remodeling, with the disappearance of type I collagen, fibro -
+nectin, and N-cadherin, and the appearance of tenascins, 
+matrilins, and thrombospondins, including cartilage  6 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+In the growth plate, FGFR3 serves as a master inhibitor 
+of chondrocyte proliferation via phosphorylation of the 
+Stat1 transcription factor, which increases expression of the 
+cell cycle inhibitor p21.69 More recent studies suggest 
+that FGF-18 is the preferred ligand of FGFR3 because 
+Fgf18-deficient mice have an expanded zone of proliferating 
+chondrocytes similar to that in Fgfr3-deficient mice, and 
+that FGF-18 can inhibit Indian hedgehog (Ihh) expres -
+sion.70 FGF-18 and FGF-9 are expressed in the perichon -
+drium and periosteum and form a functional gradient  
+from the proximal proliferating zone, where FGF-18 acts  
+via FGFR3 to downregulate proliferation and subsequent 
+maturation.70,71 FGF-18 and FGF-9 interact with FGFR1 in 
+the prehypertrophic and hypertrophic zones, where more 
+recent evidence indicates that they regulate vascular inva -
+sion by inducing the expression of vascular endothelial 
+growth factor (VEGF) and VEGFR1. As the epiphyseal 
+growth plate develops, FGFR3 disappears, and FGFR1 
+expression is upregulated in prehypertrophic and hypertro -
+phic chondrocytes, suggesting a role for FGFR1 in the regu -
+lation of cell survival and differentiation and possibly cell 
+death.67
+The proliferation of chondrocytes in the lower prolifera -
+tive and prehypertrophic zones is under the control of a 
+local negative feedback loop involving signaling by parathy -
+roid hormone–related protein (PTHrP) and Ihh.72 Ihh 
+expression is restricted to the prehypertrophic zone, and the 
+PTHrP receptor is expressed in the distal zone of periarticu -
+lar chondrocytes. Adjacent, surrounding perichondrial cells 
+express the Hedgehog receptor patched (Ptc), which on Ihh 
+binding, similar to Shh in the mesenchymal condensations, 
+activates Smo and induces Gli transcription factors; this can 
+feedback regulate Ihh target genes in a positive ( Gli1 and 
+Gli2) or negative ( Gli3) manner.73 Ihh induces expression 
+of PTHrP in the perichondrium,74 and PTHrP signaling 
+stimulates cell proliferation via its receptor expressed in the 
+periarticular chondrocytes.75 These interactions are modu -
+lated by a balance of BMP and FGF signaling that adjusts 
+the pace of chondrocyte terminal differentiation to the pro -
+liferation rate.10 FGF-18 or FGFR3 signaling can inhibit Ihh 
+expression,70 and BMP signaling upregulates the expression 
+of Ihh in cells that are beyond the range of the PTHrP-
+induced signal.10 Evidence indicates that Ihh acts indepen -
+dently of PTHrP on periarticular chondrocytes to stimulate 
+differentiation of columnar chondrocytes in the prolifera -
+tive zone, whereas PTHrP acts by preventing premature 
+differentiation into prehypertrophic and hypertrophic 
+chondrocytes, suppressing premature expression of Ihh.76 
+Ihh and PTHrP , by transiently inducing proliferation 
+markers and repressing differentiation markers, function in 
+a temporospatial manner to determine the number of cells 
+that remain in the chondrogenic lineage versus the number 
+that enter the endochondral ossification pathway.72,77
+Endochondral Ossification
+The development of long bones from the cartilage anlagen 
+occurs by a process termed endochondral ossification,  which 
+involves terminal differentiation of chondrocytes to the 
+hypertrophic phenotype, cartilage matrix calcification, vas -
+cular invasion, and ossification (see Figure 1-4 ).28,77-79 This 
+process is initiated when cells in the central region of the In vitro and in vivo studies have shown that BMP signaling 
+is required for the formation of precartilaginous condensa -
+tions and for the differentiation of precursors into chon-
+drocytes.58 Growth of the condensation ceases when 
+noggin inhibits BMP signaling and permits overt differen -
+tiation to chondrocytes, which often are designated as chon-
+droblasts.  The cartilage formed serves as a template for 
+formation of cartilage elements in the vertebra, sternum, 
+and rib, and for limb elongation or endochondral bone 
+formation.
+Molecular Signals in Cartilage Morphogenesis 
+and Growth Plate Development
+The cartilage anlagen grow by cell division and deposition 
+of the extracellular matrix and by apposition of proliferating 
+cells from the inner chondrogenic layer of the perichon -
+drium. The nuclear transcription factor, Sox9, is one of the 
+earliest markers expressed in cells undergoing condensation 
+and is required for the subsequent stage of chondrogenesis 
+characterized by the deposition of matrix containing  
+collagens II, IX, and XI and aggrecan in the cartilage 
+anlagen.59,60 T wo additional Sox family members, L-Sox5 
+and Sox6, which are not present in early mesenchymal 
+condensations but are coexpressed with Sox9 during chon -
+drocyte differentiation,61 have a high degree of sequence 
+identity with each other but have no sequence homology 
+with Sox9, except in the high-mobility group (HMG) box. 
+They can form homodimers or heterodimers, which bind 
+more efficiently to pairs of HMG box sites than to single 
+sites, and in contrast to Sox9, they contain no transcrip -
+tional activation domain. The expression of SOX proteins 
+depends on BMP signaling via BMPR1A and BMPR1B, 
+which are functionally redundant and active in chondro -
+cyte condensations but not in the perichondrium.58 L-Sox5 
+and Sox6 are required for the expression of Col9a1, aggre -
+can, link protein, and Col2a1 during overt chondrocyte 
+differentiation.62 The runt domain transcription factor, 
+Runx2 (also known as core binding factor,  Cbfa1), is expressed 
+in all condensations, including those that are destined to 
+form bone.63-65
+Throughout chondrogenesis, the balance of signaling by 
+BMPs and FGFs determines the rate of proliferation while 
+adjusting the pace of differentiation.10 In the long bones, 
+long after condensation, BMP-2, BMP-3, BMP-4, BMP-5, 
+and BMP-7 are expressed primarily in the perichondrium, 
+and only BMP-7 is expressed in the proliferating chondro -
+cytes.10 BMP-6 is found later exclusively in hypertrophic 
+chondrocytes along with BMP-2. More than 23 FGFs have 
+been identified so far.66 The specific ligands that activate 
+each FGF receptor (R) during chondrogenesis in vivo have 
+been difficult to identify because signaling depends on the 
+temporal and spatial location of not only the ligands, but 
+also the receptors.67 FGFR2 is upregulated early in condens -
+ing mesenchyme and is present later in the periphery of the 
+condensation along with FGFR1, which is expressed in sur -
+rounding loose mesenchyme. FGFR3 is associated with pro -
+liferation of chondrocytes in the central core of the 
+mesenchymal condensation and may overlap with FGFR2. 
+Proliferation of chondrocytes in the embryonic and postna -
+tal growth plate is regulated by multiple mitogenic stimuli, 
+including FGFs, which converge on cyclin D1.687 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+VEGF120 (VEGFA), regulates chondrocyte survival and 
+epiphyseal cartilage angiogenesis.98-100 VEGF164 can be 
+soluble or matrix bound and may act directly on chondro -
+cytes via Npn2. VEGF is released from the extracellular 
+matrix by MMPs, including MMP-9, membrane-type 
+(MT)1-MMP (MMP-14), and MMP-13. MMP-9 is 
+expressed by endothelial cells that migrate into the central 
+region of the hypertrophic cartilage.90 MMP-14, which has 
+a broader range of expression than MMP-9, is essential for 
+chondrocyte proliferation and secondary ossification,101 
+whereas MMP-13 is found exclusively in late hypertrophic 
+chondrocytes.82 These events of cartilage matrix remodeling 
+and vascular invasion are required for the migration  
+and differentiation of osteoclasts and osteoblasts, which 
+remove the mineralized cartilage matrix and replace it  
+with bone.
+Development of the Joint Capsule and 
+Synovium
+The interzone and the contiguous perichondrial envelope, 
+of which the interzone is a part, contain the mesenchymal 
+cell precursors that give rise to other joint components, 
+including the joint capsule, synovial lining, menisci, intra -
+capsular ligaments, and tendons.3,4,102,103 The external 
+mesenchymal tissue condenses as a fibrous capsule. The 
+peripheral mesenchyme becomes vascularized and is incor -
+porated as the synovial mesenchyme, which differentiates 
+into a pseudomembrane at about the same time as cavita -
+tion begins in the central interzone (stage 23, approxi -
+mately 8 weeks). The menisci arise from eccentric portions 
+of the articular interzone. In common usage, the term 
+synovium  refers to the true synovial lining and the subjacent 
+vascular and areolar tissue, up to—but excluding—the 
+capsule. Synovial lining cells can be distinguished as  
+soon as multiple cavities within the interzone begin to 
+coalesce. At first, these are exclusively fibroblast-like (type 
+B) cells.
+As the joint cavity increases in size, synovial lining cell 
+layers expand through proliferation of fibroblast-like cells 
+and recruitment of macrophage-like (type A) cells from the 
+circulation.104 The synovial lining cells express the hyaluro -
+nan receptor, CD44, and UDPGD, the levels of which 
+remain elevated after cavitation. This increased activity 
+likely contributes to the high concentration of hyaluronan 
+in joint fluids.30,105 Further synovial expansion results in the 
+appearance of synovial villi at the end of the second month, 
+early in the fetal period, which greatly increases the surface 
+area available for exchange between the joint cavity and 
+the vascular space. Cadherin-11 is an additional molecule 
+expressed by synovial lining cells.106,107 It is essential for 
+establishment of synovial lining architecture during devel -
+opment, where its expression correlates with cell migration 
+and tissue outgrowth of the synovial lining.
+The role of innervation in the developing joint is not 
+well understood. A dense capillary network develops in the 
+subsynovial tissue, with numerous capillary loops that pen -
+etrate into the true synovial lining layer. The human syno -
+vial microvasculature is already innervated by 8 weeks 
+(stage 23) of gestation, around the time of joint cavita -
+tion,102 as is shown by immunoreactivity for the neuronal 
+“housekeeping” enzymes.108 Evidence of neurotransmitter anlage begin to hypertrophy, increasing cellular fluid volume 
+by almost 20 times. Ihh plays a pivotal role in regulating 
+endochondral bone formation by synchronizing perichon -
+drial maturation with chondrocyte hypertrophy, which is 
+essential for initiating the process of vascular invasion.80 Ihh 
+is expressed in prehypertrophic chondrocytes as they exit 
+the proliferative phase and enter the hypertrophic phase,  
+at which time they begin to express the hypertrophic  
+chondrocyte marker, type X collagen (Col10a1), and alka -
+line phosphatase. These cells are responsible for laying 
+down the cartilage matrix, which subsequently undergoes 
+mineralization.
+Runx2, which serves as a positive regulatory factor in 
+chondrocyte maturation to hypertrophy,81 is expressed in 
+the adjacent perichondrium and in prehypertrophic chon -
+drocytes, but less in late hypertrophic chondrocytes,82,83 
+overlapping with Ihh, Col10a1, and BMP-6.77,84 BMP-
+induced Smad1 interacts with Runx2, and Runx2 and 
+Smad1 are important for chondrocyte hypertrophy.81,85,86 An 
+essential role for Runx2 in the process of chondrocyte 
+hypertrophy is supported by the observation that terminal 
+differentiation is blocked in Runx2-deficient mice.64,87 
+Interactions with components of the extracellular matrix 
+also contribute to regulation of the process of chondrocyte 
+terminal differentiation. Matrix metalloproteinase (MMP)-
+13, a downstream target of Runx2, is expressed by terminal 
+hypertrophic chondrocytes,88-91 and MMP-13 deficiency 
+results in significant interstitial collagen accumulation, 
+leading to a delay in endochondral ossification in the  
+growth plate with increased length of the hypertrophic 
+zone.92,93
+In contrast, Col10a1 knockout mice and transgenic mice 
+with a dominant interference Col10a1  mutation have subtle 
+growth plate phenotypes with compressed proliferative and 
+hypertrophic zones and altered mineral deposition.94 Muta -
+tions in the COL10a1  gene are associated with the dwarfism 
+observed in human chondrodysplasias. These mutations 
+affect regions of the growth plate that are under great 
+mechanical stress, and it has been suggested that the defect 
+in skeletal growth may be due in part to alteration of the 
+mechanical integrity of the pericellular matrix in the hyper -
+trophic zone, although a role for defective vascularization 
+also has been proposed.95 The extracellular matrix remodel -
+ing that accompanies chondrocyte terminal differentiation 
+is thought to induce an alteration in the environmental 
+stress experienced by hypertrophic chondrocytes, which 
+eventually undergo apoptosis.77,96,97 Together these studies 
+indicate that the composition and remodeling of the extra -
+cellular matrix play an important role in processes associ -
+ated with chondrocyte hypertrophy, vascular invasion, and, 
+as discussed subsequently, osteoblast recruitment and subse -
+quent bone formation.90
+Vascular invasion of the hypertrophic zone is required  
+for the replacement of calcified cartilage by bone.84,91 The 
+angiogenic factor, VEGF , promotes vascular invasion by spe -
+cifically activating localized receptors, including Flk 
+expressed in endothelial cells in the perichondrium or sur -
+rounding soft tissues, neuropilin 1 (Npn1) expressed in late 
+hypertrophic chondrocytes, or Npn2 expressed exclusively 
+in the perichondrium.28 VEGF is expressed as three different 
+isoforms: VEGF188, a matrix-bound form, is essential for 
+metaphyseal vascularization, whereas the soluble form, 8 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+from the central site of the original condensation, which 
+forms the cartilage anlage resembling the shape of the future 
+bone, toward the ends of the forming bones. During joint 
+cavitation, the peripheral interzone is absorbed into each 
+adjacent cartilaginous zone, evolving into the articular 
+surface. The articular surface is destined to become a spe -
+cialized cartilaginous structure that does not normally 
+undergo vascularization and ossification.
+More recent evidence indicates that postnatal matura -
+tion of the articular cartilage involves an appositional 
+growth mechanism originating from progenitor cells at the 
+articular surface, rather than by an interstitial mechanism.114 
+The chondrocytes of mature articular cartilage are termi -
+nally differentiated cells that are capable of expressing 
+cartilage-specific matrix molecules, such as type II collagen 
+and aggrecan (see following section).19,21,24 Through the 
+processes described previously, the articular joint spaces are 
+developed and are lined on all surfaces by cartilage or by 
+synovial lining cells. These two different tissues merge at 
+the enthesis, the region at the periphery of the joint where 
+the cartilage melds into bone, and where ligaments and the 
+capsule are attached.118 In the postnatal growth plate, dif -
+ferentiation of the perichondrium also is linked to differen -
+tiation of the chondrocytes in the epiphysis to form the 
+different zones of the growth plate, contributing to longitu -
+dinal bone growth.28,77
+ORGANIZATION AND PHYSIOLOGY OF 
+THE MATURE JOINT
+The unique structural properties and biochemical compo -
+nents of diarthrodial joints make them extraordinarily 
+durable load-bearing devices.119 The mature diarthrodial 
+joint is a complex structure, influenced by its environment 
+and by mechanical demands (see Chapter 6). Structural 
+differences between joints are determined by their different 
+functions. The shoulder joint, which demands an enormous 
+range of motion, is stabilized primarily by muscles, whereas 
+the hip, requiring motion and antigravity stability, has an 
+intrinsically stable ball-and-socket configuration. Compo -
+nents of the “typical” synovial joint include synovium, 
+muscles, tendons, ligaments, bursae, menisci, articular car -
+tilage, and subchondral bone. The anatomy and physiology 
+of muscles are described in detail in Chapter 5.
+Synovium
+The synovium lines the joint cavity and is the sight of 
+production of synovial fluid that provides nutrition for the 
+articular cartilage and lubricates the cartilage surfaces. It is 
+a thin membrane between the fibrous joint capsule and the 
+fluid-filled synovial cavity that attaches to skeletal tissues at 
+the bone-cartilage interface and does not encroach on the 
+surface of the articular cartilage. It is divided into functional 
+compartments: the lining region (synovial intima), the sub -
+intimal stroma, and the neurovasculature ( Figure 1-6 ). The 
+synovial intima, also termed synovial lining,  is the superficial 
+layer of the normal synovium that is in contact with the 
+intra-articular cavity.105,120 The synovial lining is loosely 
+attached to the subintima, which contains blood vessels, 
+lymphatics, and nerves. Capillaries and arterioles generally function is not found until much later, however, with the 
+appearance of the sensory neuropeptide, substance P , at 11 
+weeks. The putative sympathetic neurotransmitter, neuro -
+peptide Y, appears at 13 weeks of gestation, along with the 
+catecholamine-synthesizing enzyme tyrosine hydroxylase. 
+The finding that the Slit2 gene, which functions for the 
+guidance of neuronal axons and neurons, is expressed in the 
+mesenchyme adjacent to the AER (stages 20 to 22) and in 
+the peripheral mesenchyme of the limb bud (stages 23 to 
+28) suggests that innervation is an integral part of synovial 
+joint development.109
+Development of Nonarticular Joints
+In contrast to articular joints, the temporomandibular joint 
+develops slowly, with cavitation at a crown-rump length of 
+57 to 75 mm (i.e., well into the fetal stage).110 This slow 
+development may occur because this joint develops in the 
+absence of a continuous blastema and involves the insertion 
+between bone ends of a fibrocartilaginous disk that arises 
+from muscular and mesenchymal derivatives of the first pha -
+ryngeal arch.
+The development of other types of joints, such as synar -
+throses, is similar to that of diarthrodial joints, except that 
+cavitation does not occur and synovial mesenchyme is not 
+formed. In these respects, synarthroses and amphiarthroses 
+resemble the “fused” peripheral joints induced by paralyzing 
+chicken embryos,111 and they may develop as they do 
+because there is relatively little motion during their 
+formation.
+Human vertebrae and intervertebral disks develop as 
+units, each derived from a homogeneous blastema arising 
+from a somite. Each embryonic intervertebral disk serves as 
+a rostral and caudal chondrogenic zone for the two adjacent 
+evolving vertebral bodies. The periphery of the embryonic 
+“disk” is replaced by the annulus fibrosus.112 The interverte -
+bral disk bears many similarities to the joint; the annulus is 
+the joint capsule, the nucleus pulposus is the joint cavity, 
+and the vertebral end plates are the cartilage-covered bone 
+ends composing the articulation. The proteoglycans and 
+collagens expressed during development of the interverte -
+bral disk have been mapped and reflect the complex 
+structure-function relationships that allow flexibility and 
+resistance to compression in the spine.113-116
+Development of Articular Cartilage
+In the vertebrate skeleton, cartilage is the product of cells 
+from three distinct embryonic lineages. Craniofacial carti -
+lage is formed from cranial neural crest cells, the cartilage 
+of the axial skeleton (intervertebral disks, ribs, and sternum) 
+forms from paraxial mesoderm (somites), and the articular 
+cartilage of the limbs is derived from the lateral plate meso -
+derm.2 In the developing limb bud, mesenchymal condensa -
+tions, followed by chondrocyte differentiation and 
+maturation, occur in digital zones, whereas undifferentiated 
+mesenchymal cells in the interdigital web zones undergo 
+cell death.117 Embryonic cartilage is destined for one of 
+several fates: It can remain as permanent cartilage, as on 
+the articular surfaces of bones, or it can provide a template 
+for the formation of bones by endochondral ossification. 
+During development, chondrocyte maturation expands 9 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+intercellular junctions, and desmosomes. Instead, synovial 
+lining cells lie loosely in a bed of hyaluronate interspersed 
+with collagen fibrils. This is the macromolecular sieve that 
+imparts the semipermeable nature of the synovium. The 
+absence of any true basement membrane is a major deter -
+minant of joint physiology.
+Early electron microscopic studies characterized lining 
+cells as macrophage-derived type A synoviocytes and 
+fibroblast-derived type B synoviocytes.129 High UDPGD 
+activity and CD55 are used to distinguish type B synovial 
+cells, whereas nonspecific esterase and CD68 typify type A 
+cells.130,131 Normal synovium is lined predominantly by 
+fibroblast-like cells, whereas macrophage-like cells account 
+for only 10% to 20% of lining cells (see Figure 1-6 ).
+Type A, macrophage-like synovial cells contain vacu -
+oles, a prominent Golgi apparatus, and filopodia, but they 
+have little rough endoplasmic reticulum. These cells express 
+numerous cell surface markers of the monocyte-macrophage 
+lineage, including CD11b, CD68, CD14, CD163, and the 
+immunoglobulin (Ig)G Fc receptor, Fc γRIIIa.105 Synovial 
+intimal macrophages are phagocytic and may provide a 
+mechanism by which particulate matter can be cleared from 
+the normal joint cavity. Similar to other tissue macrophages, 
+these cells have little capacity to proliferate and are likely 
+localized to the joint during development. The op/op osteo -
+petrotic mouse that is deficient in macrophages because of 
+an absence of macrophage colony-stimulating factor also 
+lacks synovial macrophages.132 This finding provides further 
+evidence that type A synovial cells are of a common lineage 
+with other tissue macrophages. Although they represent 
+only a small percentage of cells in the normal synovium, 
+macrophages are recruited from the circulation during syno -
+vial inflammation, in part from subchondral bone marrow 
+through vascular channels near the enthesis.
+The type B, fibroblast-like synovial cell contains fewer 
+vacuoles and filopodia than type A cells and has abundant 
+protein-synthetic organelles. Similar to other fibroblasts, 
+lining cells express the collagen synthesis enzyme and  
+synthesize extracellular matrix components, including col -
+lagens, sulfated proteoglycans, fibronectin, fibrillin-1, and are located directly underneath the synovial intima, whereas 
+venules are located closer to the joint capsule.
+A transition from loose to dense connective tissue occurs 
+from the joint cavity to the capsule. Most cells in the normal 
+subintimal stroma are fibroblasts and macrophages, although 
+adipocytes and occasional mast cells are present.105 These 
+compartments are not circumscribed by basement mem -
+branes but nonetheless have distinct functions; they are 
+separated from each other by chemical barriers, such as 
+membrane peptidases, which limit the diffusion of regula -
+tory factors between compartments. Synovial compartments 
+are unevenly distributed within a single joint. Vascularity is 
+high at the enthesis, where synovium, ligament, and carti -
+lage coalesce.121 Far from being a homogeneous tissue in 
+continuity with the synovial cavity, synovium is highly het -
+erogeneous, and synovial fluid may be poorly representative 
+of the tissue-fluid composition of any synovial tissue com -
+partment. In rheumatoid arthritis, the synovial lining of 
+diarthrodial joints is the site of the initial inflammatory 
+process.122,123 This lesion is characterized by proliferation of 
+synovial lining cells, increased vascularization, and infiltra -
+tion of the tissue by inflammatory cells, including lympho -
+cytes, plasma cells, and activated macrophages (see  
+Chapter 53).124-126
+Synovial Lining
+The synovial lining, a specialized condensation of mesen -
+chymal cells and extracellular matrix, is located between 
+the synovial cavity and the stroma. In normal synovium, 
+the lining layer is two to three cells deep, although intra-
+articular fat pads usually are covered by only a single layer 
+of synovial cells, and ligaments and tendons are covered by 
+synovial cells that are widely separated. At some sites, lining 
+cells are absent, and extracellular connective tissue consti -
+tutes the lining layer.127 Such “bare areas” become increas -
+ingly frequent with advancing age.128 Although the synovial 
+lining is often referred to as the synovial membrane,  the term 
+membrane  is more correctly reserved for endothelial and 
+epithelial tissues that have basement membranes, tight Figure 1-6  A, Schematic representation of normal human synovium. The intima contains specialized fibroblasts expressing vascular cell adhesion 
+molecule-1 (VCAm-1) and uridine diphosphoglucose (UDPg) and specialized macrophages expressing Fc γRIIIa. The deeper subintima contains unspe -
+cialized counterparts. B, microvascular endothelium in human synovium contains receptors for the vasodilator/growth factor substance P. Silver grains 
+represent specific binding of [125I]Bolton Hunter–labeled substance P to synovial microvessels (arrows).  Arrowheads indicate the synovial surface. 
+Emulsion-dipped in vitro receptor autoradiography preparations with hematoxylin and eosin counterstain. Calibration bar = 1 µm. (A, From Edwards 
+JCW: Fibroblast biology: development and differentiation of synovial fibroblasts in arthritis, Arthritis Res  2:344–347, 2000.)
+B
+ AIntimal
+macrophageIntimal
+fibroblasts Synovial fluid
+Subintimal
+macrophage
+Blood vesselsSubintimal
+fibroblast10 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+region, the surfaces of intra-articular ligaments, and the 
+entheses (in the angle of ligamentous insertions into bone) 
+are particularly well vascularized.121
+The distribution of synovial vessels, which were formed 
+largely as a result of vasculogenesis during development of 
+the joint, displays considerable plasticity. Vasculogenesis is 
+a dynamic process that depends on cellular interactions 
+with regulatory factors and the extracellular matrix that are 
+also important in angiogenesis. In inflammatory arthritis, 
+the density of blood vessels decreases relative to the growing 
+synovial mass, creating a hypoxic and acidotic environ -
+ment.141,142 Angiogenic factors such as VEGF , acting via 
+VEGF receptors 1 and 2 (Flt-1 and Flk-1), and basic FGF 
+promote proliferation and migration of endothelial cells—a 
+process that is facilitated by matrix-degrading enzymes and 
+adhesion molecules such as integrin αvβ3 and E-selectin, 
+expressed by activated endothelial cells.143-145 Vessel matura -
+tion is facilitated by angiopoietin-1 acting via the Tie-2 
+receptor. Angiogenic molecules are restricted to the capil -
+lary epithelium in normal synovium, but their levels are 
+elevated in inflamed synovium in perivascular sites and 
+areas remote from vessels.146,147
+Regulation of Synovial Blood Flow
+Synovial blood flow is regulated by intrinsic (autocrine and 
+paracrine) and extrinsic (neural and humoral) systems. 
+Locally generated factors, such as the peptide vasoconstric -
+tors angiotensin II and endothelin-1, act on adjacent arte -
+riolar smooth muscle to regulate regional vascular tone.121 
+Normal synovial arterioles are richly innervated by sympa -
+thetic nerves containing vasoconstrictors, such as norepi -
+nephrine and neuropeptide Y, and by “sensory” nerves that 
+also play an efferent vasodilatory role by releasing neuro -
+peptides, such as substance P and calcitonin gene–related 
+peptide.148,149 Arterioles regulate regional blood flow. Capil -
+laries and postcapillary venules are sites of fluid and cellular 
+exchange. Correspondingly, regulatory systems are differen -
+tially distributed along the vascular axis. Angiotensin-
+converting enzyme, which generates angiotensin II, is 
+localized predominantly in arteriolar and capillary endothe -
+lia and is decreased during inflammation.150 Specific recep -
+tors for angiotensin II and for substance P are abundant on 
+synovial capillaries, with lower densities on adjacent arteri -
+oles. Dipeptidyl peptidase IV , a peptide-degrading enzyme, 
+is specifically localized to the cell membranes of venular 
+endothelium. The synovial vasculature not only is function -
+ally compartmentalized from the surrounding stroma, but is 
+also highly specialized along its arteriovenous axis. Other 
+unique characteristics of the normal synovial vasculature 
+include the presence of inducible nitric oxidase synthase–
+independent 3-nitrotyrosine, a reaction product of per -
+oxynitrite,151 and localization of the synoviocyte-derived 
+CXCL12 chemokine on heparan sulfate receptors on endo -
+thelial cells,152 suggesting physiologic roles for these mole -
+cules in normal vascular function.
+Joint Innervation
+Dissection studies have shown that each joint has a dual 
+nerve supply, consisting of specific articular nerves that pen -
+etrate the capsule as independent branches of adjacent tenascin.105,133 They have the potential to proliferate, 
+although proliferation markers are rarely seen in normal 
+synovium.134 In contrast to stromal fibroblasts, synovial 
+intimal fibroblasts express UDPGD and synthesize hyaluro -
+nan, an important constituent of synovial fluid.105 They also 
+synthesize lubricin, which, together with hyaluronan, is 
+necessary for the low-friction interaction of cartilage sur -
+faces in the diarthrodial joint. Synovial lining cells bear 
+abundant membrane peptidases on their surface, capable of 
+degrading a wide range of regulatory peptides, such as sub -
+stance P and angiotensin II.135 These enzymes may be 
+important in limiting the diffusion of these potent peptide 
+mediators away from the immediate vicinity of their site of 
+release and action.
+Normal synovial lining cells also express a rich array of 
+adhesion molecules, including CD44, the principal receptor 
+for hyaluronan; vascular cell adhesion molecule (VCAM)-
+1; and intercellular adhesion molecule (ICAM)-1.105,136-138 
+They are essential for cellular attachment to specific matrix 
+components in the synovial lining region, preventing loss 
+into the synovial cavity of cells subjected to deformation 
+and shear stresses during joint movement. Adhesion  
+molecules such as VCAM-1 and ICAM-1 potentially are 
+involved in the recruitment of inflammatory cells during the 
+evolution of arthritis. Cadherins mediate cell-cell adhesion 
+between adjacent cells of the same type. The identification 
+of cadherin-11 as a key adhesion molecule that regulates 
+formation of the synovial lining during development and 
+the synoviocyte function postnatally has provided the 
+opportunity to examine its role in inflammatory joint 
+disease.106 Recent studies have shown that cadherin-11 is 
+highly expressed in fibroblast-like cells at the pannus-
+cartilage interface in rheumatoid synovium, where it plays 
+a role in the invasive properties of the synovial fibroblasts139; 
+treatment with a cadherin-11 antibody or a cadherin-11 
+fusion protein has been shown to reduce synovial inflam -
+mation and cartilage erosion in an animal model of 
+arthritis.107
+Synovial Vasculature
+The subintimal synovium contains blood vessels, which 
+provide the blood flow required for solute and gas exchange 
+in the synovium itself and for generation of synovial fluid.121 
+The avascular articular cartilage also depends on nutrition 
+in the synovial fluid, derived from the synovial vasculature. 
+The vascularized synovium behaves similar to an endocrine 
+organ, generating factors that regulate synoviocyte function 
+and serving as a selective gateway that recruits cells from 
+the circulation during stress and inflammation.140 Finally, 
+synovial blood flow plays an important role in regulating 
+intra-articular temperature.
+The synovial vasculature can be divided, on morphologic 
+and functional grounds, into arterioles, capillaries, and 
+venules. In addition, lymphatics accompany arterioles and 
+larger venules.105,121 Arterial and venous networks of the 
+joint are complex and are characterized by arteriovenous 
+anastomoses that communicate freely with blood vessels in 
+periosteum and periarticular bone. As large synovial arteries 
+enter the deep layers of the synovium near the capsule, they 
+give off branches, which bifurcate again to form microvas -
+cular units  in the subsynovial layers. The synovial lining 11 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+symptom described by patients with chronically inflamed 
+joints caused by rheumatoid arthritis. Chronically inflamed 
+joints may not be painful at rest, however, unless acutely 
+inflamed.163
+Tendons
+Tendons are functional and anatomic bridges between 
+muscle and bone.164,165 They focus the force of a large mass 
+of muscle into a localized area on bone and, by splitting to 
+form numerous insertions, may distribute the force of a 
+single muscle to different bones. Tendons are formed of 
+longitudinally arranged collagen fibrils embedded in an 
+organized, hydrated proteoglycan matrix with blood vessels, 
+lymphatics, and fibroblasts.166 Cross-links between adjacent 
+collagen chains or molecules contribute to the tensile 
+strength of the tendon.167,168 Tendon collagen fibrillogenesis 
+is initiated during early development through a highly 
+ordered process of alignment involving the actin cytoskel -
+eton and cadherin-11.169,170 Many tendons, particularly 
+tendons with a large range of motion, run through vascular -
+ized, discontinuous sheaths of collagen lined with mesen -
+chymal cells resembling synovium. Gliding of tendons 
+through their sheaths is enhanced by hyaluronic acid pro -
+duced by the lining cells. Tendon movement is essential for 
+the embryogenesis and maintenance of tendons and their 
+sheaths. Degenerative changes appear in tendons, and 
+fibrous adhesions are formed between tendons and sheaths 
+when inflammation or surgical incision is followed by long 
+periods of immobilization.171 At the myotendinous junction, 
+recesses between muscle cell processes are filled with col -
+lagen fibrils, which blend into the tendon. At its other end, 
+collagen fibers of the tendon typically blend into fibrocarti -
+lage or mineralize, and merge into bone through a fibrocar -
+tilaginous transition zone termed the enthesis,  or insertion 
+site.172
+Tendon fibroblasts synthesize and secrete collagens, pro -
+teoglycans, and other matrix components, such as fibronec -
+tin and tenascin C, and MMPs and their inhibitors, which 
+can contribute to the breakdown and repair of tendon com -
+ponents.166,173-176 Collagen fibrils in tendon are composed 
+primarily of type I collagen with some type III collagen, but 
+regional differences in the distribution of other matrix com -
+ponents have been noted. The compressed region contains 
+the small proteoglycans—biglycan, decorin, fibromodulin, 
+and lumican—and a large proteoglycan—versican.177,178 
+Major components in the tensile region of the tendon are 
+decorin, microfibrillar type VI collagen, fibromodulin, and 
+the proline and arginine-rich end leucine-rich repeat 
+protein (PRELP). The presence of cartilage oligomeric 
+matrix protein, aggrecan, biglycan, and collagen types II, 
+IX, and XI is indicative of fibrocartilage.179,180 The collagen 
+fiber orientation at the tendon-to-bone enthesis is impor -
+tant for maintaining microarchitecture by reducing stress 
+concentrations and shielding the outward splay of insertion 
+from the highest stresses.181 Understanding the structure has 
+implications for tendon repair because motion between a 
+tendon graft and a bone tunnel may impair early graft incor -
+poration, leading to tunnel widening secondary to bone 
+resorption.182
+Failure of the muscle-tendon apparatus is rare, but when 
+it does occur, it is secondary to enormous, quickly generated peripheral nerves and articular branches that arise from 
+related muscle nerves. The definition of joint position and 
+the detection of joint motion are monitored separately and 
+through a combination of multiple inputs from different 
+receptors in varied systems. Nerve endings in muscle  
+and skin and in the joint capsule mediate the sensation of 
+joint position and movement.153,154 Normal joints have 
+afferent (sensory) and efferent (motor) innervations. Fast-
+conducting, myelinated A fibers innervating the joint 
+capsule are important for proprioception and detection of 
+joint movement; slow-conducting, unmyelinated C fibers 
+transmit diffuse pain sensation and regulate synovial micro -
+vascular function.
+Normal synovium is richly innervated by fine, unmyelin -
+ated nerve fibers that follow the courses of blood vessels and 
+extend into the synovial lining layers.148 These nerve fibers 
+do not have specialized endings and are slow-conducting 
+fibers; they may transmit diffuse, burning, or aching pain 
+sensation. Sympathetic nerve fibers surround blood vessels, 
+particularly in the deeper regions of normal synovium. They 
+contain and release classic neurotransmitters, such as nor -
+epinephrine, and neuropeptides that constrict synovial 
+blood vessels. Neuropeptides that are markers of sensory 
+nerves include substance P , calcitonin gene–related peptide, 
+neuropeptide Y, and vasoactive intestinal peptide.148,155-157
+Afferent nerves containing substance P also have an 
+efferent role in the synovium. Substance P is released from 
+peripheral nerve terminals into the joint, and specific, G 
+protein–coupled receptors for substance P are localized to 
+microvascular endothelium in normal synovium. Abnor -
+malities of articular innervation that are associated with 
+inflammatory arthritis may contribute to the failure of syno -
+vial inflammation to resolve.148,158 Excessive local neuropep -
+tide release may result in loss of nerve fibers owing to 
+neuropeptide depletion. Synovial tissue proliferation 
+without concomitant growth of new nerve fibers may lead 
+to an apparent partial denervation of synovium.148,158 Studies 
+in patients suggest that free nerve endings containing sub -
+stance P may modulate inflammation and the pain pathway 
+in osteoarthritis.159 Afferent nerve fibers from the joint play 
+an important role in the reflex inhibition of muscle contrac -
+tion. Trophic factors generated by motor neurons, such as 
+the neuropeptide calcitonin gene–related peptide, are 
+important in maintaining muscle bulk and a functional neu -
+romuscular junction.160 Decreases in motor neuron trophic 
+support during articular inflammation probably contribute 
+to muscle wasting.
+Mechanisms of joint pain have been reviewed in 
+detail.161,162 In a noninflamed joint, most sensory nerve fibers 
+do not respond to movement within the normal range; these 
+are referred to as silent nociceptors.  In an acutely inflamed 
+joint, however, these nerve fibers become sensitized by 
+mediators, such as bradykinin, neurokinin 1, and prosta -
+glandins (peripheral sensitization), such that normal move -
+ments induce pain. Pain sensation is upregulated or 
+downregulated further in the central nervous system, at the 
+level of the spinal cord, and in the brain by central sensitiza -
+tion and gating  of nociceptive input. Although the normal 
+joint may respond predictably to painful stimuli, poor cor -
+relation has been noted between apparent joint disease and 
+perceived pain in chronic arthritis. Pain associated with 
+joint movements within the normal range is a characteristic 12 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+between deep bursae and joints. In patients with rheuma -
+toid arthritis, communications may exist between the sub -
+acromial bursae and the glenohumeral joint, between the 
+gastrocnemius or semimembranosus bursae and the knee 
+joint, and between the iliopsoas bursa and the hip joint. It 
+is unusual, however, for subcutaneous bursae, such as the 
+prepatellar bursa or olecranon bursa, to develop communi -
+cation with the underlying joint.192
+Menisci
+The meniscus, a fibrocartilaginous, wedge-shaped structure, 
+is best developed in the knee, but also is found in the acro -
+mioclavicular and sternoclavicular joints, the ulnocarpal 
+joint, and the temporomandibular joint.193,194 Until recently, 
+menisci were thought to have little function and a quiescent 
+metabolism with no capability of repair, although early 
+observations indicated that removal of menisci from the 
+knee may lead to premature arthritic changes in the joint.195 
+Evidence from an arthroscopic study of patients with ante -
+rior cruciate ligament insufficiency indicates that the 
+pathology of the medial meniscus correlates with that of the 
+medial femoral cartilage.196 The meniscus is now considered 
+to be an integral component of the knee joint that has 
+important functions in joint stability, load distribution, 
+shock absorption, and lubrication.193,194
+The microanatomy of the meniscus is complex and age 
+dependent.197 The characteristic shape of the lateral and 
+medial menisci is achieved early in prenatal development. 
+At that time, the menisci are cellular and highly vascular -
+ized; with maturation, vascularity decreases progressively 
+from the central margin to the peripheral margin. After 
+skeletal maturity, the peripheral 10% to 30% of the menis -
+cus remains highly vascularized by a circumferential capil -
+lary plexus and is well innervated.198 Tears in this vascularized 
+peripheral zone may undergo repair and remodeling.199 
+The central portion of the mature meniscus is an avascular 
+fibrocartilage, however, without nerves or lymphatics, con -
+sisting of cells surrounded by an abundant extracellular 
+matrix of collagens, chondroitin sulfate, dermatan sulfate, 
+and hyaluronic acid. Tears in this central zone heal poorly, 
+if at all.
+Collagen constitutes 60% to 70% of the dry weight of 
+the meniscus and is mostly type I collagen, with lesser 
+amounts of types III, V , and VI. A small quantity of cartilage-
+specific type II collagen is localized to the inner, avascular 
+portion of the meniscus. Collagen fibers in the periphery are 
+mostly circumferentially oriented, with radial fibers extend -
+ing toward the central portion.200-203 Elastin content is 
+around 0.6%, and proteoglycan content is around 2% to 3% 
+dry weight. Aggrecan and decorin are the major proteogly -
+cans in the adult meniscus.204,205 Decorin is the predominant 
+proteoglycan synthesized in the meniscus from young indi -
+viduals, whereas the relative proportion of aggrecan synthe -
+sis increases with age. Although the capacity of the meniscus 
+to synthesize sulfated proteoglycans decreases after the 
+teenage years, age-related increases in expression of decorin 
+and aggrecan mRNA suggest that the resident cells are able 
+to respond quickly to alterations in the biomechanical 
+environment.206
+The meniscus was defined originally as a fibrocartilage, 
+based on the rounded or oval shape of most of the cells and forces across a joint and usually occurs near the tendon 
+insertion into bone.183,184 Factors that may predispose to 
+tendon failure consist of aging processes, including loss of 
+extracellular water and an increase in intermolecular cross-
+links of collagen; tendon ischemia; iatrogenic factors, 
+including injection of glucocorticoids; and deposition of 
+calcium hydroxyapatite crystals within the collagen bundles. 
+Alterations in collagen fibril composition and structure are 
+associated with tendon degeneration during aging and may 
+predispose to osteoarthritis.179,185 Evidence indicates that 
+BMPs promote tendon repair if osteogenic signaling is 
+impaired.186
+Ligaments
+Ligaments provide a stabilizing bridge between bones, per -
+mitting a limited range of movement.187 The ligaments 
+often are recognized only as hypertrophied components of 
+the fibrous joint capsule and are structurally similar to 
+tendons.188 Although the fibers are oriented parallel to the 
+longitudinal axis of both tissues,164 the collagen fibrils in 
+ligaments are nonparallel and arranged in fibers that are 
+oriented roughly along the long axis in a wavy, undulating 
+pattern, or crimp,  which can straighten in response to load. 
+Some ligaments have a higher ratio of elastin to collagen 
+(1 : 4) than tendons (1 : 50), which permits a greater degree 
+of stretch. Ligaments also have larger quantities of reducible 
+cross-links, more type III collagen, slightly less total colla -
+gen, and more glycosaminoglycans compared with tendons. 
+The cells in ligaments seem to be more metabolically active 
+than those in tendons and have more plump cellular nuclei 
+and higher DNA content.
+During postnatal growth, the development of ligament 
+attachment zones involves changes in the ratios and distri -
+bution of collagen types I, III, and V and the synthesis of 
+type II collagen and proteoglycans by fibrochondrocytes 
+that develop from ligament cells at the attachment 
+zone.189,190 Attachment zones are believed to permit gradual 
+transmission of the tensile force between ligament and 
+bone.
+Ligaments play a major role in the passive stabilization 
+of joints, aided by the capsule and, when present, menisci. 
+In the knee, the collateral and cruciate ligaments provide 
+stability when there is little or no load on the joint. As 
+compressive load increases, the contribution to stability 
+from the joint surfaces themselves and the surrounding mus -
+culature increases as well. Injured ligaments generally heal, 
+and structural integrity is restored by contracture of the 
+healing ligament so that it can act again as a stabilizer of 
+the joint.191
+Bursae
+The many bursae in the human body facilitate gliding of 
+one tissue over another, much as a tendon sheath facilitates 
+movement of its tendon. Bursae are closed sacs, lined 
+sparsely with mesenchymal cells similar to synovial cells, 
+but they are generally less well vascularized than synovium. 
+Most bursae differentiate concurrently with synovial joints 
+during embryogenesis. During life, however, trauma or 
+inflammation may lead to the development of new bursae, 
+hypertrophy of previously existing ones, or communication 13 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+Table 1-1  Extracellular matrix Components of 
+Articular Cartilage*
+Collagens
+Type II
+Type IX
+Type XI
+Type VI
+Types XII, XIV
+Type X (hypertrophic chondrocyte)
+Proteoglycans
+Aggrecan
+Versican
+link protein
+Biglycan (DS-PgI)
+Decorin (DS-PgII)
+Epiphycan (DS-PgIII)
+Fibromodulin
+lumican
+Proline/arginine-rich and leucine-rich repeat protein (PRElP)
+Chondroadherin
+Perlecan
+lubricin (SZP)
+Other Noncollagenous Proteins (Structural)
+Cartilage oligomeric matrix protein (COmP) or thrombospondin-5
+Thrombospondin-1 and thrombospondin-3
+Cartilage matrix protein (matrilin-1) and matrilin-3
+Fibronectin
+Tenascin-C
+Cartilage intermediate layer protein (CIlP)
+Fibrillin
+Elastin
+Other Noncollagenous Proteins (Regulatory)
+glycoprotein (gp)-39, yKl-40
+matrix gla protein (mgP)
+Chondromodulin-I (SCgP) and chondromodulin-II
+Cartilage-derived retinoic acid–sensitive protein (CD-RAP)
+growth factors
+Cell Membrane–Associated Proteins
+Integrins ( α1β1, α2β1, α3β1, α5β1, α6β1, α10β1, αvβ3, αvβ5)
+Anchorin CII (annexin V)
+Cell determinant 44 (CD44)
+Syndecan-1, -3, and -4
+Discoidin domain receptor 2
+*The collagens, proteoglycans, and other noncollagenous proteins in the 
+cartilage matrix are synthesized by chondrocytes at different stages during 
+development and growth of cartilage. In mature articular cartilage, proteo -
+glycans and other noncollagen proteins are turned over slowly, whereas the 
+collagen network is stable unless exposed to proteolytic cleavage. Proteins 
+that are associated with chondrocyte cell membranes also are listed because 
+they permit specific interactions with extracellular matrix proteins. The spe -
+cific structure-function relationships are discussed in Chapter 3 and are 
+described in Table 3-1.the fibrous microscopic appearance of the extracellular 
+matrix.207 Based on molecular and spatial criteria, three 
+distinct populations of cells are recognized in the meniscus 
+of the knee joint201:
+1. The fibrochondrocyte is the most abundant cell in the 
+middle and inner meniscus, synthesizing primarily 
+type I collagen and relatively small amounts of type 
+II and III collagen. It is round or oval in shape and 
+has a pericellular filamentous matrix containing type 
+VI collagen.
+2. The fibroblast-like cells lack a pericellular matrix and 
+are located in the outer portion of the meniscus. They 
+are distinguished by long, thin, branching cytoplasmic 
+projections that stain for vimentin. They make contact 
+with other cells in different regions via connexin 
+43–containing gap junctions. The presence of two 
+centrosomes, one associated with a primary celium, 
+suggests a sensory, rather than motile, function that 
+could enable the cells to respond to circumferential 
+tensile loads, rather than compressive loads.208
+3. The superficial zone cells have a characteristic fusi -
+form shape with no cytoplasmic projections. Occa -
+sional staining of these cells in the uninjured meniscus 
+with α-actin and their migration into surrounding 
+wound sites suggest that they are specialized progeni -
+tor cells that may participate in a remodeling response 
+in the meniscus and surrounding tissues.209, 210
+MATURE ARTICULAR CARTILAGE
+Articular cartilage is a specialized connective tissue that 
+covers the weight-bearing surfaces of diarthrodial joints.119,211 
+The principal functions of cartilage layers covering bone 
+ends are to permit low-friction, high-velocity movement 
+between bones, to absorb transmitted forces associated  
+with locomotion, and to contribute to joint stability. Lubri -
+cation by synovial fluid provides frictionless movement  
+of the articulating cartilage surfaces. Chondrocytes (see 
+Chapter 3) are the single cellular components of adult 
+hyaline articular cartilage and are responsible for synthesiz -
+ing and maintaining the highly specialized cartilage matrix 
+macromolecules. The cartilage extracellular matrix is com -
+posed of an extensive network of collagen fibrils, which 
+confers tensile strength, and an interlocking mesh of pro -
+teoglycans, which provides compressive stiffness through 
+the ability to absorb and extrude water. Numerous other 
+noncollagenous proteins also contribute to the unique prop -
+erties of cartilage ( Table 1-1 ). Histologically, the tissue 
+appears to be fairly homogeneous and is clearly distinguished 
+from calcified cartilage and underlying subchondral bone 
+(Figure 1-7 ). The organization of articular cartilage and the 
+structure-function relationships of cartilage matrix compo -
+nents are described in Chapter 3.
+Subchondral Bone Interactions with Articular 
+Cartilage
+Subchondral bone is not a homogeneous tissue; it consists 
+of a layer of compact cortical bone and an underlying system 
+of cancellous bone organized into a trabecular network.212,213 
+The subchondral bone is separated from the overlying artic -
+ular cartilage by a thin zone of calcified cartilage. The so-called tidemark defines the transition zone between 
+articular and calcified cartilage. This complex biocomposite 
+of bone and calcified cartilage provides an optimal system 
+for distributing loads that are transmitted from the weight-
+bearing surfaces lined by hyaline articular cartilage. 
+Although the tidemark was originally believed to form a 
+barrier to fluid flow, evidence suggests that biologically 
+active molecules can transit this zone, providing a mecha -
+nism by which products produced by chondrocytes or bone 
+cells can influence the activity of the other cell type.214 DS-PG, dermatan sulfate proteoglycan; SCGP, small cartilage–derived  
+glycoprotein; SZP, superficial zone protein; YKL-40, 40KD chitinase 3-like 
+glycoprotein.14 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+the articular cartilage and periarticular bone may lead to 
+modification of the contours of adjacent articulating sur -
+faces, further contributing to the adverse biomechanical 
+environment.217,223-225
+Analyses of periarticular bone in patients with osteoar -
+thritis reveal that the structural and functional properties 
+of subchondral cortical and trabecular bone are dependent 
+on the stage of osteoarthritis progression.226 Several studies 
+have investigated therapies that target bone remodeling to 
+prevent these changes. Examples include the use of calcito -
+nin,227,228 bisphosphonates,229 and estrogen.230 To date, no 
+study has been performed in patients with osteoarthritis to 
+investigate the efficacy of targeting receptor activator of 
+nuclear factor κB (NF κB) ligand (RANKL), which medi -
+ates osteoclast differentiation and activity, and its receptor 
+RANK, a member of the tumor necrosis factor receptor 
+family. RANK is expressed in adult articular chondrocytes, 
+but exogenous RANKL does not activate NF κB nor stimu -
+late the production of collagenase or nitric oxide.231 Inhibi -
+tion of RANKL expression does not block cartilage 
+destruction in inflammatory models,232 although RANKL 
+may have indirect effects on cartilage through its protective 
+effect on bone.233
+SYNOVIAL FLUID AND NUTRITION  
+OF JOINT STRUCTURES
+The volume and composition of synovial fluid are deter -
+mined by the properties of the synovium and its vasculature. 
+Fluid in normal joints is present in small quantities (2.5 mL 
+in the normal knee) sufficient to coat the synovial surface, 
+but not to separate one surface from the other. Tendon Under physiologic conditions, the composition and struc -
+tural organization of subchondral bone and calcified carti -
+lage are optimally adapted to transfer loads, but multiple 
+conditions can lead to changes in the structural and func -
+tional properties of these tissues. For example, with advanc -
+ing age, the zone of calcified cartilage may expand and 
+advance into the deep zones of the overlying articular car -
+tilage, producing thinning of the cartilage layer and altera -
+tions in load transfer and fibrillation and disruption of the 
+cartilage surface.215
+Maintenance of the structural and functional integrity  
+of articular cartilage and subchondral bone under physio -
+logic loading provides evidence of the unique and intimate 
+interaction of these tissues, but there remains controversy 
+regarding the relationship between them in the pathogen -
+esis of osteoarthritis.216 Radin and Rose217 proposed that the 
+initiation of early alterations in articular cartilage is caused 
+by an increase in subchondral bone stiffness that adversely 
+affects the function of articular chondrocytes, leading to 
+deterioration in the properties of the articular cartilage and 
+susceptibility to mechanical disruption. Alternatively, it has 
+been proposed that changes in subchondral bone stiffness 
+may be secondary to cartilage deterioration.218-220 The alter -
+ations in subchondral bone and cartilage that accompany 
+the osteoarthritis process are not restricted to these tissues, 
+but also affect the zone of calcified cartilage, where evidence 
+reveals vascular invasion, advancement of the calcified car -
+tilage, and duplication of the tidemark, which contributes 
+further to a decrease in articular cartilage thickness.221 A 
+more recent study showed that angiogenesis in the osteo -
+chondral junction is independent of synovial angiogenesis 
+and synovitis, but is associated with cartilage changes and 
+clinical disease activity.222 These structural alterations in Figure 1-7  Representative sections of normal human adult articular cartilage show nearly the same field in plain (A) and polarized (B) light. Note 
+the clear demarcation of the articular cartilage from the calcified cartilage below the tidemark and the underlying subchondral bone. (Hematoxylin-
+eosin stain; original magnification ×60.) (Courtesy Edward F. DiCarlo, MD, Pathology Department, Hospital for Special Surgery, New York.)
+B A15 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+normal knees), and equilibrium is not usually reached 
+among all parts of the joint. Tissue fluid around fenestrated 
+endothelium reflects plasma ultrafiltrate most closely, with 
+a low content of hyaluronate compared with synovial fluid. 
+Alternatively, locally generated or released peptides, such 
+as endothelin and substance P , may attain much higher 
+perivascular concentrations than those measured in syno -
+vial fluid. The turnover time for hyaluronan in the normal 
+joint (13 hours) is an order of magnitude slower, however, 
+than that for small solutes and proteins. Association with 
+hyaluronan may result in trapping of solutes within synovial 
+fluid.239
+In normal joints, intra-articular pressures are slightly sub -
+atmospheric at rest (0 to −5 mm Hg).240 During exercise, 
+hydrostatic pressure in the normal joint may decrease 
+further. Resting intra-articular pressures in rheumatoid 
+joints are around 20 mm Hg, whereas during isometric exer -
+cise, they may increase to greater than 100 mm Hg—well 
+above capillary perfusion pressure and, at times, above arte -
+rial pressure. Repeated mechanical stresses can interrupt 
+synovial perfusion during joint movement, particularly in 
+the presence of a synovial effusion.
+Synovial Fluid as an Indicator of Joint Function
+In the absence of a basement membrane separating synovium 
+or cartilage from synovial fluid, measurements made on 
+synovial fluid may reflect the activity of these structures. A sheath fluid and synovial fluid are biochemically similar. 
+Both are essential for the nutrition and lubrication of  
+adjacent avascular structures, including tendon and articu -
+lar cartilage, and for limiting adhesion formation and main -
+taining movement. Characterization and measurement of 
+synovial fluid constituents have proved useful for the iden -
+tification of locally generated regulatory factors, markers of 
+cartilage turnover, and the metabolic status of the joint, and 
+for assessment of the effects of therapy on cartilage homeo -
+stasis. Interpretation of such data requires, however, an 
+understanding of the generation and clearance of synovial 
+fluid and its various components.
+Generation and Clearance of Synovial Fluid
+Synovial fluid concentrations of a protein represent the net 
+contributions of synovial blood flow, plasma concentration, 
+microvascular permeability, and lymphatic removal and its 
+production and consumption within the joint space. Syno -
+vial fluid is a mixture of a protein-rich ultrafiltrate of plasma 
+and hyaluronan synthesized by synoviocytes. Generation of 
+this ultrafiltrate depends on the difference between intra -
+capillary and intra-articular hydrostatic pressures and 
+between colloid osmotic pressures of capillary plasma and 
+synovial tissue fluid. Fenestrations, small pores covered by 
+a thin membrane, in the synovial capillaries and the mac -
+romolecular sieve of hyaluronic acid facilitate rapid 
+exchange of small molecules, such as glucose and lactate, 
+assisted—in the case of glucose—by an active transport 
+system.234 Proteins are present in synovial fluid at concen -
+trations inversely proportional to molecular size, with syno -
+vial fluid albumin concentrations being about 45% of those 
+in plasma ( Figure 1-8 ).235 Concentrations of electrolytes and 
+small molecules are equivalent to those in plasma.236
+Synovial fluid is cleared through lymphatics in the 
+synovium, assisted by joint movement. In contrast to ultra -
+filtration, lymphatic clearance of solutes is independent of 
+molecular size. In addition, constituents of synovial fluid, 
+such as regulatory peptides, may be degraded locally by 
+enzymes, and low-molecular-weight metabolites may diffuse 
+along concentration gradients into plasma. The kinetics of 
+delivery and removal of a protein must be determined (e.g., 
+using albumin as a reference solute) to assess the signifi -
+cance of its concentration in the joint.237
+Hyaluronic acid is synthesized by fibroblast-like synovial 
+lining cells, and it appears in high concentrations in syno -
+vial fluid, at around 3 g/L, compared with a plasma concen -
+tration of 30 µg/L. Lubricin, a glycoprotein that assists 
+articular lubrication, is another constituent of synovial fluid 
+that is generated by the lining cells. It is now believed that 
+hyaluronan functions in fluid-film lubrication, whereas 
+lubricin is the true boundary lubricant in synovial fluid (see 
+following). Because the volume of synovial fluid is deter -
+mined by the amount of hyaluronan, water retention seems 
+to be the major function of this large molecule.234,238
+Despite the absence of a basement membrane, synovial 
+fluid does not mix freely with extracellular synovial tissue 
+fluid. Hyaluronan may trap molecules within the synovial 
+cavity by acting as a filtration screen on the surface of the 
+synovial lining, resisting the movement of synovial fluid out 
+from the joint space.238 Synovial fluid and its constituent 
+proteins have a rapid turnover time (around 1 hour in Figure 1-8  Ratio of the concentration of proteins in synovial fluid to 
+that found in serum, plotted as a function of molecular weight. larger 
+proteins are selectively excluded from normal synovial fluid, but this 
+macromolecular sieve is less effective in diseased synovium. Conc., con -
+centration; RA, rheumatoid arthritis; S, serum; SF, synovial fluid. (From 
+Kushner I, Somerville JA: Permeability of human synovial membrane to 
+plasma proteins, Arthritis Rheum 14:560, 1971. Reprinted with permission 
+of the American College of Rheumatology.)NormalOsteoarthritis
+Classic RAGoutProbably RA
+100 1 1000Oroso-
+mucoidTrans-
+ ferrinCerulo-
+plasminα2 Macro-
+globulin
+.01.101.0
+Molecular W eight  (×103)Ratio
+SF
+S
+Conc.
+44 74 160 82016 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+Lubrication and Nutrition of the Articular 
+Cartilage
+Lubrication
+Synovial fluid serves as a lubricant for articular cartilage and 
+as a source of nutrition for the chondrocytes within. Lubri -
+cation is essential for protecting cartilage and other joint 
+structures from friction and shear stresses associated with 
+movement under loading. T wo basic categories of joint 
+lubrication are known. In fluid-film lubrication, cartilage 
+surfaces are separated by an incompressible fluid film; hyal -
+uronan functions as the lubricant. In boundary lubrication, 
+specialized molecules attached to the cartilage surface 
+permit surface-to-surface contact, while decreasing the coef -
+ficient of friction.
+During loading, a noncompressible fluid film trapped 
+between opposing cartilage surfaces prevents the surfaces 
+from touching. Irregularities in the cartilage surface and its 
+deformation during compression may augment this trapping 
+of fluid. This stable film is approximately 0.1 µm thick in 
+the normal human hip joint, but it can be much thinner in 
+the presence of inflammatory synovial fluids or with 
+increased cartilage porosity.244, 245
+Lubricin is the major boundary lubricant in the human 
+joint.246 It is a glycoprotein, also called superficial zone protein  
+or proteoglycan 4,  that is synthesized by synovial cells and 
+chondrocytes.247-250 Recent studies have demonstrated that 
+lubricin is also produced by meniscal and tendon cells.251,252 
+It has a molecular weight of 225,000, a length of 200 nm, 
+and a diameter of 1 to 2 nm.253 Dipalmitoyl phosphatidyl -
+choline, which constitutes 45% of the lipid in normal syno -
+vial fluid, acts together with lubricin as a boundary 
+lubricant.254 More recent work indicates that lubricin func -
+tions as a phospholipid carrier via a mechanism that is 
+common to all tissues.255,256 In cartilage, lipid composes 1% 
+to 2% of the dry weight,257 and experimental treatment of 
+cartilage surfaces with fat solvents impairs lubrication 
+qualities.258
+Nutrition
+As observed by Hunter in 1743,259 normal adult articular 
+cartilage contains no blood vessels. Vascularization of car -
+tilage would be expected to alter its mechanical properties. 
+Blood flow would be repeatedly occluded during weight 
+bearing and exercise, with reactive oxygen species gener -
+ated during reperfusion, resulting in repeated damage to 
+cartilage matrix and chondrocytes. Chondrocytes synthesize 
+specific inhibitors of angiogenesis that maintain articular 
+cartilage as an avascular tissue.260-262 As a result of the lack 
+of adjacent blood vessels, the chondrocyte normally lives in 
+an hypoxic and acidotic environment, with extracellular 
+fluid pH values around 7.1 to 7.2,263 and it uses anaerobic 
+glycolysis for energy production.264,265 High lactate levels in 
+normal synovial fluid, compared with paired plasma mea -
+surements, partially reflect this anaerobic metabolism.265 
+There are two sources of nutrients for articular cartilage: 
+synovial fluid and subchondral blood vessels.
+The synovial fluid and, indirectly, the synovial lining, 
+through which synovial fluid is generated, are the major 
+sources of nutrients for articular cartilage. Nutrients may wide range of regulatory factors and products of synoviocyte 
+metabolism and cartilage breakdown may be generated 
+locally within the joint, resulting in marked differences 
+between the composition of synovial fluid and that of 
+plasma ultrafiltrate. Because there is little capacity for the 
+selective concentration of solutes in synovial fluid, solutes 
+present at higher concentrations than in plasma are prob -
+ably synthesized locally. It is necessary to know the local 
+clearance rate, however, to determine whether solutes 
+present in synovial fluid at lower concentrations than in 
+plasma are generated locally.236 Although microvascular 
+permeability to protein in highly inflamed rheumatoid 
+joints is more than twice that in osteoarthritic joints, syno -
+vial fluid protein concentrations vary little between the two 
+joint diseases241 because enhanced entry of proteins through 
+the microvasculature is largely offset by the increased lym -
+phatic clearance.242 Because clearance rates from synovial 
+fluid may be slower than those from plasma, however, syno -
+vial fluid levels of drugs or urate may remain elevated after 
+plasma levels have declined.234
+Comparisons of synovial fluid constituents between 
+disease groups are often limited by the sparseness of data on 
+normal synovial fluid as a result of difficulties in its collec -
+tion. Extrapolation from synovial fluid concentrations to 
+local synthetic rates is complicated further by variations in 
+clearance rates and in synovial fluid volume. Plasma pro -
+teins are less effectively filtered in inflamed synovium, 
+perhaps because of the increased size of endothelial cell 
+fenestrations, or because interstitial hyaluronate-protein 
+complexes are fragmented by enzymes associated with the 
+inflammatory process.235 Concentrations of proteins, such as 
+α2-macroglobulin (the principal proteinase inhibitor of 
+plasma), fibrinogen, and IgM, are elevated in inflammatory 
+synovial fluids (see Figure 1-8 ), as are associated protein-
+bound cations. Membrane peptidases may limit the diffu -
+sion of regulatory peptides from their sites of release into 
+synovial fluid. In inflammatory arthritis, fibrin deposits may 
+retard flow between tissue and liquid phases. Cautious inter -
+pretation of synovial fluid analysis has important implica -
+tions in understanding how to use data on biomarkers of 
+cartilage damage and repair in rheumatoid arthritis and 
+osteoarthritis (see Chapter 53).
+Recently, Gobezie and co-workers243 have utilized high-
+throughput mass spectroscopy–based proteomic analysis to 
+define the protein expression profiles of high-abundance 
+synovial fluid proteins in healthy subjects and patients with 
+early and late osteoarthritis. They identified 18 proteins 
+that were significantly differentially expressed between 
+osteoarthritic and control groups. Although all of the dif -
+ferentially expressed proteins are present in the blood and 
+could therefore enter the joint through alterations in vas -
+cular permeability associated with the disease state, these 
+molecules are also products of synovial cells and chondro -
+cytes, suggesting that they could be locally produced within 
+the joint. Proteins associated with oxidative damage and 
+activation of mitogen-activated protein kinases were among 
+the high-abundance molecules in osteoarthritis synovial 
+fluids. Members of the proinflammatory complement cascade 
+were also identified in the synovial fluid. Of interest, these 
+molecules have been implicated in the pathophysiology of 
+both osteoarthritis and rheumatoid arthritis.17 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+collagens, proteoglycans, and other noncollagenous pro -
+teins, which provide tensile strength and compressive resis -
+tance. Proper distribution and relative composition of these 
+proteins are required for the function of cartilage in protect -
+ing the subchondral bone from adverse environmental 
+influences.
+Maintenance of the unique composition and organiza -
+tion of each joint tissue is crucial for normal joint function, 
+which is compromised in response to inflammation, biome -
+chanical injury, and aging. Knowledge of normal structure-
+function relationships within joint tissues is essential for 
+understanding the pathogenesis and consequences of joint 
+disease.
+Selected References
+1. Simkin PA: The musculoskeletal system. A. Joints. In Klippel JH, 
+Crofford LJ, Stone JH, Weyand CM, editors: Primer on the rheumatic 
+diseases , ed 12, Atlanta, 2001, Arthritis Foundation, pp 5–9.
+2. Olsen BR, Reginato AM, Wang W: Bone development, Annu Rev 
+Cell Dev Biol  16:191–220, 2000.
+3. O’Rahilly R, Gardner E: The timing and sequence of events in the 
+development of the limbs in the human embryo, Anat Embryol (Berl)  
+148:1–23, 1975.
+4. O’Rahilly R, Gardner E: The embryology of movable joints. In Sokol -
+off L, editor: The joints and synovial fluid , vol 1, New York, 1978, 
+Academic Press, p 49.
+5. Pacifici M, Koyama E, Iwamoto M: Mechanisms of synovial joint and 
+articular cartilage formation: recent advances, but many lingering 
+mysteries, Birth Defects Res C Embryo Today  75:237–248, 2005.
+6. Church VL, Francis-West P: Wnt signalling during limb develop -
+ment, Int J Dev Biol  46:927–936, 2002.
+7. Francis-West PH, Abdelfattah A, Chen P , et al: Mechanisms of 
+GDF-5 action during skeletal development, Development  126:1305–
+1315, 1999.
+8. Edwards CJ, Francis-West PH: Bone morphogenetic proteins in the 
+development and healing of synovial joints, Semin Arthritis Rheum  
+31:33–42, 2001.
+9. Xu X, Weinstein M, Li C, Deng C-X: Fibroblast growth factor recep -
+tors (FGFRs) and their roles in limb development, Cell Tissue Res  
+296:33–43, 1999.
+10. Minina E, Kreschel C, Naski MC, et al: Interaction of FGF , Ihh/
+Pthlh, and BMP signaling integrates chondrocyte proliferation and 
+hypertrophic differentiation, Dev Cell  3:439–449, 2002.
+11. Iwamoto M, Tamamura Y, Koyama E, et al: Transcription factor ERG 
+and joint and articular cartilage formation during mouse limb and 
+spine skeletogenesis, Dev Biol  305:40–51, 2007.
+12. Lizarraga G, Lichtler A, Upholt WB, Kosher RA: Studies on the role 
+of Cux1 in regulation of the onset of joint formation in the develop -
+ing limb, Dev Biol  243:44–54, 2002.
+13. Hartmann C, Tabin CJ: Wnt-14 plays a pivotal role in inducing 
+synovial joint formation in the developing appendicular skeleton, 
+Cell 104:341–351, 2001.
+14. Tsumaki N, Tanaka K, Arikawa-Hirasawa E, et al: Role of CDMP-1 
+in skeletal morphogenesis: promotion of mesenchymal cell recruit -
+ment and chondrocyte differentiation, J Cell Biol  144:161–173, 1999.
+15. Archer CW, Dowthwaite GP , Francis-West P: Development of syno -
+vial joints, Birth Defects Res C Embryo Today  69:144–155, 2003.
+16. Storm EE, Kingsley DM: GDF5 coordinates bone and joint formation 
+during digit development, Dev Biol  209:11–27, 1999.
+17. von der Mark H, von der Mark K, Gay S: Study of differential col -
+lagen synthesis during development of the chick embryo by immu -
+nofluorescence. I. Preparation of collagen type I and type II specific 
+antibodies and their application to early stages of the chick embryo, 
+Dev Biol  48:237–249, 1976.
+18. Craig FM, Bentley G, Archer CW: The spatial and temporal pattern 
+of collagens I and II and keratan sulphate in the developing chick 
+metatarsophalangeal joint, Development  99:383–391, 1987.
+19. Morrison EH, Ferguson MW, Bayliss MT, Archer CW: The develop -
+ment of articular cartilage. I. The spatial and temporal patterns of 
+collagen types, J Anat  189(Pt 1):9–22, 1996.enter cartilage from synovial fluid by diffusion or by mass 
+transport of fluid during compression-relaxation cycles.266 
+Molecules as large as hemoglobin (65 kD) can diffuse 
+through normal articular cartilage,267 and the solutes needed 
+for cellular metabolism are much smaller. Diffusion of 
+uncharged small solutes, such as glucose, is not impaired in 
+matrices containing large quantities of glycosaminoglycans, 
+and the diffusivity of small molecules through hyaluronate 
+is enhanced.268,269
+Intermittent compression may serve as a pump mecha -
+nism for solute exchange in cartilage. The concept has 
+arisen from observations that joint immobilization or dislo -
+cation leads to degenerative changes. In contrast, exercise 
+increases solute penetration into cartilage in experimental 
+systems.267 During weight bearing, fluid escapes from the 
+load-bearing region by flow to other cartilage sites. When 
+the load is removed, cartilage re-expands and draws back 
+fluid, exchanging nutrients with waste materials.270
+In a growing child, the deeper layers of cartilage are 
+vascularized, such that blood vessels penetrate between 
+columns of chondrocytes in the growth plate. It is likely that 
+nutrients diffuse from these tiny end capillaries through the 
+matrix to chondrocytes. Diffusion from subchondral blood 
+vessels is not considered a major route for the nutrition of 
+normal adult articular cartilage because of the barrier pro -
+vided by its densely calcified lower layer. Nonetheless, 
+partial defects may normally exist in this barrier,271 and in 
+arthritis, neovascularization of the deeper layers of articular 
+cartilage may contribute to cartilage nutrition and to entry 
+of inflammatory cells and cytokines.221,272 In aging and 
+osteoarthritis, tidemark “duplication” may indicate com -
+munication between bone and cartilage.218,273 Experimental 
+studies have indicated that cartilage lesions of chondroma -
+lacia may develop if the subchondral blood supply of the 
+patella is compromised.274
+SUMMARY AND CONCLUSION
+Normal human synovial joints are complex structures that 
+comprise interacting connective tissue elements that permit 
+constrained and low-friction movement of adjacent bones. 
+The development of synovial joints in the embryo is a 
+highly ordered process involving complex cell-cell and cell-
+matrix interactions, leading to the formation of cartilage 
+anlagen and interzone and joint cavitation. Understanding 
+of the cellular interactions and molecular factors involved 
+in cartilage morphogenesis and limb development has pro -
+vided clues to understanding the functions of the synovium, 
+articular cartilage, and associated structures in the mature 
+joint.
+The synovial joint is uniquely adapted to responding to 
+environmental and mechanical demands. The synovial 
+lining is composed of two to three cell layers, and no base -
+ment membrane separates the lining cells from underlying 
+connective tissue. The synovium produces synovial fluid, 
+which provides nutrition and lubrication to the avascular 
+articular cartilage. Normal articular cartilage contains a 
+single cell type, the articular chondrocyte, which is respon -
+sible for maintaining the integrity of the extracellular car -
+tilage matrix. This matrix consists of a complex network of 18 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+49. Riddle RD, Tabin C: How limbs develop, Sci Am  280:74–79, 1999.
+50. Bitgood MJ, McMahon AP: Hedgehog and Bmp genes are coex -
+pressed at many diverse sites of cell-cell interaction in the mouse 
+embryo, Dev Biol  172:126–138, 1995.
+51. Roberts DJ, Johnson RL, Burke AC, et al: Sonic hedgehog is an 
+endodermal signal inducing Bmp-4 and Hox genes during induction 
+and regionalization of the chick hindgut, Development  121:3163–
+3174, 1995.
+52. Liu A, Wang B, Niswander LA: Mouse intraflagellar transport pro -
+teins regulate both the activator and repressor functions of Gli tran -
+scription factors, Development  132:3103–3111, 2005.
+53. Parr BA, McMahon AP: Dorsalizing signal Wnt-7a required for 
+normal polarity of D-V and A-P axes of mouse limb, Nature  374:350–
+353, 1995.
+54. Irvine KD, Vogt TF: Dorsal-ventral signalling in limb development, 
+Curr Opin Cell Biol  8:867–876, 1997.
+55. Pizette S, Niswander L: BMPs are required at two steps of limb chon -
+drogenesis: formation of prechondrogenic condensations and their 
+differentiation into chondrocytes, Dev Biol  219:237–249, 2000.
+56. Derynck R, Zhang YE: Smad-dependent and Smad-independent 
+pathways in TGF-beta family signalling, Nature  425:577–584, 2003.
+57. Yoon BS, Lyons KM: Multiple functions of BMPs in chondrogenesis, 
+J Cell Biochem  93:93–103, 2004.
+58. Yoon BS, Ovchinnikov DA, Yoshii I, et al: Bmpr1a and Bmpr1b have 
+overlapping functions and are essential for chondrogenesis in vivo, 
+Proc Natl Acad Sci U S A  102:5062–5067, 2005.
+59. Ng LJ, Wheatley S, Muscat GE, et al: SOX9 binds DNA, activates 
+transcription, and coexpresses with type II collagen during chondro -
+genesis in the mouse, Dev Biol  183:108–121, 1997.
+60. Lefebvre V , Huang W, Harley VR, et al: SOX9 is a potent activator 
+of the chondrocyte-specific enhancer of the pro alpha1(II) collagen 
+gene, Mol Cell Biol  17:2336–2346, 1997.
+61. Lefebvre V , Li P , de Crombrugghe B: A new long form of Sox5 
+(L-Sox5), Sox6 and Sox9 are coexpressed in chondrogenesis and 
+cooperatively activate the type II collagen gene, EMBO J  17:5718–
+5733, 1998.
+62. Smits P , Li P , Mandel J, et al: The transcription factors L-Sox5 and 
+Sox6 are essential for cartilage formation, Dev Cell  1:277–290, 2001.
+63. Ducy P , Zhang R, Geoffroy V , et al: Osf2/Cbfa1: a transcriptional 
+activator of osteoblast differentiation, Cell 89:747–754, 1997.
+64. Otto F , Thornell AP , Crompton T, et al: Cbfa1, a candidate gene for 
+cleidocranial dysplasia syndrome, is essential for osteoblast differen -
+tiation and bone development, Cell 89:765–771, 1997.
+65. Xu SC, Harris MA, Rubenstein JLR, et al: Bone morphogenetic 
+protein-2 (BMP-2) signaling to the Col2a1  gene in chondroblasts 
+requires the homeobox gene Dlx-2 , DNA Cell Biol  20:359–365, 2001.
+66. Itoh N, Ornitz DM: Evolution of the Fgf and Fgfr gene families, 
+Trends Genet  20:563–569, 2004.
+67. Ornitz DM: FGF signaling in the developing endochondral skeleton, 
+Cytokine Growth Factor Rev  16:205–213, 2005.
+68. Beier F: Cell-cycle control and the cartilage growth plate, J Cell 
+Physiol  202:1–8, 2005.
+69. Sahni M, Ambrosetti DC, Mansukhani A, et al: FGF signaling inhib -
+its chondrocyte proliferation and regulates bone development 
+through the STAT-1 pathway, Genes Dev  13:1361–1366, 1999.
+70. Liu Z, Xu J, Colvin JS, Ornitz DM: Coordination of chondrogenesis 
+and osteogenesis by fibroblast growth factor 18, Genes Dev  16:859–
+869, 2002.
+71. Ohbayashi N, Shibayama M, Kurotaki Y, et al: FGF18 is required for 
+normal cell proliferation and differentiation during osteogenesis and 
+chondrogenesis, Genes Dev  16:870–879, 2002.
+72. Kronenberg HM: PTHrP and skeletal development, Ann N Y Acad 
+Sci 1068:1–13, 2006.
+73. McMahon AP , Ingham PW, Tabin CJ: Developmental roles and 
+clinical significance of hedgehog signaling, Curr Top Dev Biol  53:1–
+114, 2003.
+74. Vortkamp A, Lee K, Lanske B, et al: Regulation of rate of cartilage 
+differentiation by Indian hedgehog and PTH-related protein, Science  
+273:613–622, 1996.
+75. Lanske B, Karaplis AC, Lee K, et al: PTH/PTHrP receptor in early 
+development and Indian hedgehog-regulated bone growth, Science  
+273:663–666, 1996.
+76. Kobayashi T, Soegiarto DW, Yang Y, et al: Indian hedgehog stimu -
+lates periarticular chondrocyte differentiation to regulate growth 
+plate length independently of PTHrP , J Clin Invest  115:1734–1742, 
+2005.20. Pitsillides AA, Archer CW, Prehm P , et al: Alterations in hyaluronan 
+synthesis during developing joint cavitation, J Histochem Cytochem  
+43:263–273, 1995.
+21. Murphy JM, Heinegard R, McIntosh A, et al: Distribution of cartilage 
+molecules in the developing mouse joint, Matrix Biol  18:487–497, 
+1999.
+22. Mundlos S, Olsen BR: Heritable diseases of the skeleton. Part II. 
+Molecular insights into skeletal development-matrix components 
+and their homeostasis, FASEB J  11:227–233, 1997.
+23. Kavanagh E, Ashhurst DE: Development and aging of the articular 
+cartilage of the rabbit knee joint: distribution of biglycan, decorin, 
+and matrilin-1, J Histochem Cytochem  47:1603–1616, 1999.
+24. Nalin AM, Greenlee TK Jr, Sandell LJ: Collagen gene expression 
+during development of avian synovial joints: transient expression of 
+types II and XI collagen genes in the joint capsule, Dev Dyn  203:352–
+362, 1995.
+25. Ito MM, Kida MY: Morphological and biochemical re-evaluation of 
+the process of cavitation in the rat knee joint: cellular and cell strata 
+alterations in the interzone, J Anat  197(Pt 4):659–679, 2000.
+26. Mitrovic D: Development of the diarthrodial joints in the rat embryo, 
+Am J Anat  151:475–485, 1978.
+27. Kimura S, Shiota K: Sequential changes of programmed cell death 
+in developing fetal mouse limbs and its possible roles in limb mor -
+phogenesis, J Morphol  229:337–346, 1996.
+28. Colnot CI, Helms JA: A molecular analysis of matrix remodeling and 
+angiogenesis during long bone development, Mech Dev  100:245–250, 
+2001.
+29. Roach HI, Clarke NM: Physiological cell death of chondrocytes in 
+vivo is not confined to apoptosis: new observations on the mamma -
+lian growth plate, J Bone Joint Surg Br  82:601–613, 2000.
+30. Edwards JCW, Wilkinson LS, Jones HM, et al: The formation of 
+human synovial joint cavities: a possible role for hyaluronan and 
+CD44 in altered interzone cohesion, J Anat  185(Pt 2):355–367, 1994.
+31. Drachman DB, Sokoloff L: The role of movement in embryonic joint 
+development, Dev Biol  14:401, 1966.
+32. Persson M: The role of movements in the development of sutural and 
+diarthrodial joints tested by long-term paralysis of chick embryos,  
+J Anat  137(Pt 3):591–599, 1983.
+33. Fell HB: The histogenesis of cartilage and bone in the long bones of 
+the embryonic fowl, J Morphol Physiol  40:417–459, 1925.
+34. Hall BK, Miyake T: All for one and one for all: condensations and 
+the initiation of skeletal development, Bioessays  22:138–147, 2000.
+35. Sandell LJ, Nalin AM, Reife RA: Alternative splice form of type II 
+procollagen mRNA (IIA) is predominant in skeletal precursors and 
+non-cartilaginous tissues during early mouse development, Dev Dyn  
+199:129–140, 1994.
+36. DeLise AM, Fischer L, Tuan RS: Cellular interactions and signaling 
+in cartilage development, Osteoarthritis Cartilage  8:309–334, 2000.
+37. Eames BF , de la Fuente L, Helms JA: Molecular ontogeny of the 
+skeleton, Birth Defects Res C Embryo Today  69:93–101, 2003.
+38. Tuan RS: Biology of developmental and regenerative skeletogenesis, 
+Clin Orthop Relat Res  (427):S105–S117, 2004.
+39. Zwilling E: Limb morphogenesis, Dev Biol  28:12–17, 1972.
+40. Tickle C: Patterning systems—from one end of the limb to the other, 
+Dev Cell  4:449–458, 2003.
+41. Capdevila J, Izpisua Belmonte JC: Patterning mechanisms control -
+ling vertebrate limb development, Annu Rev Cell Dev Biol  17:87–132, 
+2001.
+42. Niswander L: Pattern formation: old models out on a limb, Nat Rev 
+Genet  4:133–143, 2003.
+43. Kengaku M, Capdevila J, Rodriguez-Esteban C, et al: Distinct WNT 
+pathways regulating AER formation and dorsoventral polarity in the 
+chick limb bud, Science  280:1274–1277, 1998.
+44. Johnson RL, Riddle RD, Tabin CJ: Mechanisms of limb patterning, 
+Curr Opin Genet Dev  4:535–542, 1994.
+45. Kmita M, Tarchini B, Zakany J, et al: Early developmental arrest of 
+mammalian limbs lacking HoxA/HoxD gene function, Nature  
+435:1113–1116, 2005.
+46. Riddle RD, Johnson RL, Laufer E, Tabin C: Sonic hedgehog mediates 
+the polarizing activity of the ZPA, Cell 75:1401–1416, 1993.
+47. Yang Y, Niswander L: Interaction between the signaling molecules 
+WNT7a and SHH during vertebrate limb development: dorsal signals 
+regulate anteroposterior patterning, Cell 80:939–947, 1995.
+48. Laufer E, Nelson CE, Johnson RL, et al: Sonic hedgehog and Fgf-4 
+act through a signaling cascade and feedback loop to integrate growth 
+and patterning of the developing limb bud, Cell 79:993–1003, 1994.19 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+99. Maes C, Stockmans I, Moermans K, et al: Soluble VEGF isoforms 
+are essential for establishing epiphyseal vascularization and regulating 
+chondrocyte development and survival, J Clin Invest  113:188–199, 
+2004.
+100. Zelzer E, Olsen BR: Multiple roles of vascular endothelial growth 
+factor (VEGF) in skeletal development, growth, and repair, Curr Top 
+Dev Biol  65:169–187, 2005.
+101. Zhou Z, Apte SS, Soininen R, et al: Impaired endochondral ossifica -
+tion and angiogenesis in mice deficient in membrane-type matrix 
+metalloproteinase I, Proc Natl Acad Sci U S A  97:4052–4057, 
+2000.
+102. Merida-Velasco JA, Sanchez-Montesinos I, Espin-Ferra J, et al: 
+Development of the human knee joint, Anat Rec  248:269–278, 
+1997.
+103. Merida-Velasco JA, Sanchez-Montesinos I, Espin-Ferra J, et al: 
+Development of the human knee joint ligaments, Anat Rec  248:259–
+268, 1997.
+104. Izumi S, Takeya M, Takagi K, Takahashi K: Ontogenetic develop -
+ment of synovial A cells in fetal and neonatal rat knee joints, Cell 
+Tissue Res  262:1–8, 1990.
+105. Edwards JCW: Fibroblast biology: development and differentiation of 
+synovial fibroblasts in arthritis, Arthritis Res  2:344–347, 2000.
+106. Valencia X, Higgins JM, Kiener HP , et al: Cadherin-11 provides 
+specific cellular adhesion between fibroblast-like synoviocytes, J Exp 
+Med 200:1673–1679, 2004.
+107. Lee DM, Kiener HP , Agarwal SK, et al: Cadherin-11 in synovial 
+lining formation and pathology in arthritis, Science  315:1006–1010, 
+2007.
+108. Hukkanen M, Konttinen YT, Rees RG, et al: Distribution of nerve 
+endings and sensory neuropeptides in rat synovium, meniscus and 
+bone, Int J Tissue React  14:1–10, 1992.
+109. Holmes G, Niswander L: Expression of slit-2 and slit-3 during chick 
+development, Dev Dyn  222:301–307, 2001.
+110. Merida-Velasco JR, Rodriguez-Vazquez JF , Merida-Velasco JA, et al: 
+Development of the human temporomandibular joint, Anat Rec  
+255:20–33, 1999.
+111. Bradley SJ: An analysis of self-differentiation of chick limb buds in 
+chorio-allantoic grafts, J Anat  107:479–490, 1970.
+112. Roberts S, Evans H, Trivedi J, Menage J: Histology and pathology of 
+the human intervertebral disc, J Bone Joint Surg Am  88(Suppl 2):10–
+14, 2006.
+113. Eyre DR, Matsui Y, Wu JJ: Collagen polymorphisms of the interver -
+tebral disc, Biochem Soc Trans  30:844–848, 2001.
+114. Hayes AJ, Benjamin M, Ralphs JR: Extracellular matrix in develop -
+ment of the intervertebral disc. Matrix Biol  20:107–121, 2001.
+115. McAlinden A, Zhu Y, Sandell LJ: Expression of type II procollagens 
+during development of the human intervertebral disc, Biochem Soc 
+Trans  30:831–838, 2001.
+116. Zhu Y, McAlinden A, Sandell LJ: Type IIA procollagen in develop -
+ment of the human intervertebral disc: regulated expression of the 
+NH(2)-propeptide by enzymic processing reveals a unique develop -
+mental pathway, Dev Dyn  220:350–362, 2001.
+117. Pizette S, Niswander L: Early steps in limb patterning and chondro -
+genesis, Novartis Found Symp  232:23–36, 2001; discussion 36–46.
+118. Benjamin M, Ralphs JR: Tendons and ligaments—an overview, Histol 
+Histopathol  12:1135–1144, 1997.
+119. Poole AR: Cartilage in health and disease. In Koopman W, editor: 
+Arthritis and allied conditions: a textbook of rheumatology , ed 15, Phila -
+delphia, 2005, Lippincott, Williams and Wilkins, pp 223–269.
+120. Henderson B, Pettipher ER: The synovial lining cell: biology and 
+pathobiology, Semin Arthritis Rheum  15:1–32, 1985.
+Full references for this chapter can be found on  www.expertconsult.com .77. Ferguson CM, Miclau T, Hu D, et al: Common molecular pathways 
+in skeletal morphogenesis and repair, Ann N Y Acad Sci  857:33–42, 
+1998.
+78. Ballock RT, O’Keefe RJ: The biology of the growth plate, J Bone Joint 
+Surg Am  85:715–726, 2003.
+79. Provot S, Schipani E: Molecular mechanisms of endochondral bone 
+development, Biochem Biophys Res Commun  328:658–665, 2005.
+80. St-Jacques B, Hammerschmidt M, McMahon AP: Indian hedgehog 
+signaling regulates proliferation and differentiation of chondrocytes 
+and is essential for bone formation, Genes Dev  13:2072–2086, 1999.
+81. Enomoto H, Enomoto-Iwamoto M, Iwamoto M, et al: Cbfa1 is a 
+positive regulatory factor in chondrocyte maturation, J Biol Chem  
+275:8695–8702, 2000.
+82. Kim IS, Otto F , Zabel B, Mundlos S: Regulation of chondrocyte dif -
+ferentiation by Cbfa1, Mech Dev  80:159–170, 1999.
+83. Takeda S, Bonnamy JP , Owen MJ, et al: Continuous expression of 
+Cbfa1 in nonhypertrophic chondrocytes uncovers its ability to 
+induce hypertrophic chondrocyte differentiation and partially rescues 
+Cbfa1-deficient mice, Genes Dev  15:467–481, 2001.
+84. Colnot C: Cellular and molecular interactions regulating skeletogen -
+esis, J Cell Biochem  95:688–697, 2005.
+85. Leboy P , Grasso-Knight G, D’Angelo M, et al: Smad-Runx interac -
+tions during chondrocyte maturation, J Bone Joint Surg Am  83(Suppl 
+1):S15–S22, 2001.
+86. Zheng Q, Zhou G, Morello R, et al: Type X collagen gene regulation 
+by Runx2 contributes directly to its hypertrophic chondrocyte-
+specific expression in vivo, J Cell Biol  162:833–842, 2003.
+87. Komori T, Yagi H, Nomura S, et al: Targeted disruption of Cbfa1 
+results in a complete lack of bone formation owing to maturational 
+arrest of osteoblasts, Cell 89:755–764, 1997.
+88. Jimenez MJ, Balbin M, Lopez JM, et al: Collagenase 3 is a target of 
+Cbfa1, a transcription factor of the runt gene family involved in bone 
+formation, Mol Cell Biol  19:4431–4442, 1999.
+89. Inada M, Yasui T, Nomura S, et al: Maturational disturbance of 
+chondrocytes in Cbfa1-deficient mice, Dev Dyn  214:279–290, 1999.
+90. Ortega N, Behonick DJ, Werb Z: Matrix remodeling during endo -
+chondral ossification, Trends Cell Biol  14:86–93, 2004.
+91. Colnot C, Lu C, Hu D, Helms JA: Distinguishing the contributions 
+of the perichondrium, cartilage, and vascular endothelium to skeletal 
+development, Dev Biol  269:55–69, 2004.
+92. Inada M, Wang Y, Byrne MH, et al: Critical roles for collagenase-3 
+(Mmp13) in development of growth plate cartilage and in endochon -
+dral ossification, Proc Natl Acad Sci U S A  101:17192–17197, 
+2004.
+93. Stickens D, Behonick DJ, Ortega N, et al: Altered endochondral 
+bone development in matrix metalloproteinase 13-deficient mice, 
+Development  131:5883–5895, 2004.
+94. Jacenko O, Chan D, Franklin A, et al: A dominant interference 
+collagen X mutation disrupts hypertrophic chondrocyte pericellular 
+matrix and glycosaminoglycan and proteoglycan distribution in 
+transgenic mice, Am J Pathol  159:2257–2269, 2001.
+95. Gress CJ, Jacenko O: Growth plate compressions and altered hema -
+topoiesis in collagen X null mice, J Cell Biol  149:983–993, 2000.
+96. Vu TH, Shipley JM, Bergers G, et al: MMP-9/gelatinase B is a key 
+regulator of growth plate angiogenesis and apoptosis of hypertrophic 
+chondrocytes, Cell 93:411–422, 1998.
+97. Gerber HP , Vu TH, Ryan AM, et al: VEGF couples hypertrophic 
+cartilage remodeling, ossification and angiogenesis during endochon -
+dral bone formation, Nat Med  5:623–628, 1999.
+98. Maes C, Carmeliet P , Moermans K, et al: Impaired angiogenesis and 
+endochondral bone formation in mice lacking the vascular endothe -
+lial growth factor isoforms VEGF164 and VEGF188, Mech Dev  
+111:61–73, 2002.19.e1 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+References
+1. Simkin PA: The musculoskeletal system. A. Joints. In Klippel JH, 
+Crofford LJ, Stone JH, Weyand CM, editors: Primer on the rheumatic 
+diseases , ed 12, Atlanta, 2001, Arthritis Foundation, pp 5–9.
+2. Olsen BR, Reginato AM, Wang W: Bone development, Annu Rev 
+Cell Dev Biol  16:191–220, 2000.
+3. O’Rahilly R, Gardner E: The timing and sequence of events in the 
+development of the limbs in the human embryo, Anat Embryol (Berl)  
+148:1–23, 1975.
+4. O’Rahilly R, Gardner E: The embryology of movable joints. In Sokol -
+off L, editor: The joints and synovial fluid , vol 1, New York, 1978, 
+Academic Press, p 49.
+5. Pacifici M, Koyama E, Iwamoto M: Mechanisms of synovial joint and 
+articular cartilage formation: recent advances, but many lingering 
+mysteries, Birth Defects Res C Embryo Today  75:237–248, 2005.
+6. Church VL, Francis-West P: Wnt signalling during limb develop -
+ment, Int J Dev Biol  46:927–936, 2002.
+7. Francis-West PH, Abdelfattah A, Chen P , et al: Mechanisms of 
+GDF-5 action during skeletal development, Development  126:1305–
+1315, 1999.
+8. Edwards CJ, Francis-West PH: Bone morphogenetic proteins in the 
+development and healing of synovial joints, Semin Arthritis Rheum  
+31:33–42, 2001.
+9. Xu X, Weinstein M, Li C, Deng C-X: Fibroblast growth factor recep -
+tors (FGFRs) and their roles in limb development, Cell Tissue Res  
+296:33–43, 1999.
+10. Minina E, Kreschel C, Naski MC, et al: Interaction of FGF , Ihh/
+Pthlh, and BMP signaling integrates chondrocyte proliferation and 
+hypertrophic differentiation, Dev Cell  3:439–449, 2002.
+11. Iwamoto M, Tamamura Y, Koyama E, et al: Transcription factor ERG 
+and joint and articular cartilage formation during mouse limb and 
+spine skeletogenesis, Dev Biol  305:40–51, 2007.
+12. Lizarraga G, Lichtler A, Upholt WB, Kosher RA: Studies on the role 
+of Cux1 in regulation of the onset of joint formation in the develop -
+ing limb, Dev Biol  243:44–54, 2002.
+13. Hartmann C, Tabin CJ: Wnt-14 plays a pivotal role in inducing 
+synovial joint formation in the developing appendicular skeleton, 
+Cell 104:341–351, 2001.
+14. Tsumaki N, Tanaka K, Arikawa-Hirasawa E, et al: Role of CDMP-1 
+in skeletal morphogenesis: promotion of mesenchymal cell recruit -
+ment and chondrocyte differentiation, J Cell Biol  144:161–173, 1999.
+15. Archer CW, Dowthwaite GP , Francis-West P: Development of syno -
+vial joints, Birth Defects Res C Embryo Today  69:144–155, 2003.
+16. Storm EE, Kingsley DM: GDF5 coordinates bone and joint formation 
+during digit development, Dev Biol  209:11–27, 1999.
+17. von der Mark H, von der Mark K, Gay S: Study of differential col -
+lagen synthesis during development of the chick embryo by immu -
+nofluorescence. I. Preparation of collagen type I and type II specific 
+antibodies and their application to early stages of the chick embryo, 
+Dev Biol  48:237–249, 1976.
+18. Craig FM, Bentley G, Archer CW: The spatial and temporal pattern 
+of collagens I and II and keratan sulphate in the developing chick 
+metatarsophalangeal joint, Development  99:383–391, 1987.
+19. Morrison EH, Ferguson MW, Bayliss MT, Archer CW: The develop -
+ment of articular cartilage. I. The spatial and temporal patterns of 
+collagen types, J Anat  189(Pt 1):9–22, 1996.
+20. Pitsillides AA, Archer CW, Prehm P , et al: Alterations in hyaluronan 
+synthesis during developing joint cavitation, J Histochem Cytochem  
+43:263–273, 1995.
+21. Murphy JM, Heinegard R, McIntosh A, et al: Distribution of cartilage 
+molecules in the developing mouse joint, Matrix Biol  18:487–497, 
+1999.
+22. Mundlos S, Olsen BR: Heritable diseases of the skeleton. Part II. 
+Molecular insights into skeletal development-matrix components 
+and their homeostasis, FASEB J  11:227–233, 1997.
+23. Kavanagh E, Ashhurst DE: Development and aging of the articular 
+cartilage of the rabbit knee joint: distribution of biglycan, decorin, 
+and matrilin-1, J Histochem Cytochem  47:1603–1616, 1999.
+24. Nalin AM, Greenlee TK Jr, Sandell LJ: Collagen gene expression 
+during development of avian synovial joints: transient expression of 
+types II and XI collagen genes in the joint capsule, Dev Dyn  203:352–
+362, 1995.
+25. Ito MM, Kida MY: Morphological and biochemical re-evaluation of 
+the process of cavitation in the rat knee joint: cellular and cell strata 
+alterations in the interzone, J Anat  197(Pt 4):659–679, 2000.26. Mitrovic D: Development of the diarthrodial joints in the rat embryo, 
+Am J Anat  151:475–485, 1978.
+27. Kimura S, Shiota K: Sequential changes of programmed cell death 
+in developing fetal mouse limbs and its possible roles in limb mor -
+phogenesis, J Morphol  229:337–346, 1996.
+28. Colnot CI, Helms JA: A molecular analysis of matrix remodeling and 
+angiogenesis during long bone development, Mech Dev  100:245–250, 
+2001.
+29. Roach HI, Clarke NM: Physiological cell death of chondrocytes in 
+vivo is not confined to apoptosis: new observations on the mamma -
+lian growth plate, J Bone Joint Surg Br  82:601–613, 2000.
+30. Edwards JCW, Wilkinson LS, Jones HM, et al: The formation of 
+human synovial joint cavities: a possible role for hyaluronan and 
+CD44 in altered interzone cohesion, J Anat  185(Pt 2):355–367, 1994.
+31. Drachman DB, Sokoloff L: The role of movement in embryonic joint 
+development, Dev Biol  14:401, 1966.
+32. Persson M: The role of movements in the development of sutural and 
+diarthrodial joints tested by long-term paralysis of chick embryos,  
+J Anat  137(Pt 3):591–599, 1983.
+33. Fell HB: The histogenesis of cartilage and bone in the long bones of 
+the embryonic fowl, J Morphol Physiol  40:417–459, 1925.
+34. Hall BK, Miyake T: All for one and one for all: condensations and 
+the initiation of skeletal development, Bioessays  22:138–147, 2000.
+35. Sandell LJ, Nalin AM, Reife RA: Alternative splice form of type II 
+procollagen mRNA (IIA) is predominant in skeletal precursors and 
+non-cartilaginous tissues during early mouse development, Dev Dyn  
+199:129–140, 1994.
+36. DeLise AM, Fischer L, Tuan RS: Cellular interactions and signaling 
+in cartilage development, Osteoarthritis Cartilage  8:309–334, 2000.
+37. Eames BF , de la Fuente L, Helms JA: Molecular ontogeny of the 
+skeleton, Birth Defects Res C Embryo Today  69:93–101, 2003.
+38. Tuan RS: Biology of developmental and regenerative skeletogenesis, 
+Clin Orthop Relat Res  (427):S105–S117, 2004.
+39. Zwilling E: Limb morphogenesis, Dev Biol  28:12–17, 1972.
+40. Tickle C: Patterning systems—from one end of the limb to the other, 
+Dev Cell  4:449–458, 2003.
+41. Capdevila J, Izpisua Belmonte JC: Patterning mechanisms control -
+ling vertebrate limb development, Annu Rev Cell Dev Biol  17:87–132, 
+2001.
+42. Niswander L: Pattern formation: old models out on a limb, Nat Rev 
+Genet  4:133–143, 2003.
+43. Kengaku M, Capdevila J, Rodriguez-Esteban C, et al: Distinct WNT 
+pathways regulating AER formation and dorsoventral polarity in the 
+chick limb bud, Science  280:1274–1277, 1998.
+44. Johnson RL, Riddle RD, Tabin CJ: Mechanisms of limb patterning, 
+Curr Opin Genet Dev  4:535–542, 1994.
+45. Kmita M, Tarchini B, Zakany J, et al: Early developmental arrest of 
+mammalian limbs lacking HoxA/HoxD gene function, Nature  
+435:1113–1116, 2005.
+46. Riddle RD, Johnson RL, Laufer E, Tabin C: Sonic hedgehog mediates 
+the polarizing activity of the ZPA, Cell 75:1401–1416, 1993.
+47. Yang Y, Niswander L: Interaction between the signaling molecules 
+WNT7a and SHH during vertebrate limb development: dorsal signals 
+regulate anteroposterior patterning, Cell 80:939–947, 1995.
+48. Laufer E, Nelson CE, Johnson RL, et al: Sonic hedgehog and Fgf-4 
+act through a signaling cascade and feedback loop to integrate growth 
+and patterning of the developing limb bud, Cell 79:993–1003, 1994.
+49. Riddle RD, Tabin C: How limbs develop, Sci Am  280:74–79, 1999.
+50. Bitgood MJ, McMahon AP: Hedgehog and Bmp genes are coex -
+pressed at many diverse sites of cell-cell interaction in the mouse 
+embryo, Dev Biol  172:126–138, 1995.
+51. Roberts DJ, Johnson RL, Burke AC, et al: Sonic hedgehog is an 
+endodermal signal inducing Bmp-4 and Hox genes during induction 
+and regionalization of the chick hindgut, Development  121:3163–
+3174, 1995.
+52. Liu A, Wang B, Niswander LA: Mouse intraflagellar transport pro -
+teins regulate both the activator and repressor functions of Gli tran -
+scription factors, Development  132:3103–3111, 2005.
+53. Parr BA, McMahon AP: Dorsalizing signal Wnt-7a required for 
+normal polarity of D-V and A-P axes of mouse limb, Nature  374:350–
+353, 1995.
+54. Irvine KD, Vogt TF: Dorsal-ventral signalling in limb development, 
+Curr Opin Cell Biol  8:867–876, 1997.
+55. Pizette S, Niswander L: BMPs are required at two steps of limb chon -
+drogenesis: formation of prechondrogenic condensations and their 
+differentiation into chondrocytes, Dev Biol  219:237–249, 2000.19.e2 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+56. Derynck R, Zhang YE: Smad-dependent and Smad-independent 
+pathways in TGF-beta family signalling, Nature  425:577–584, 2003.
+57. Yoon BS, Lyons KM: Multiple functions of BMPs in chondrogenesis, 
+J Cell Biochem  93:93–103, 2004.
+58. Yoon BS, Ovchinnikov DA, Yoshii I, et al: Bmpr1a and Bmpr1b have 
+overlapping functions and are essential for chondrogenesis in vivo, 
+Proc Natl Acad Sci U S A  102:5062–5067, 2005.
+59. Ng LJ, Wheatley S, Muscat GE, et al: SOX9 binds DNA, activates 
+transcription, and coexpresses with type II collagen during chondro -
+genesis in the mouse, Dev Biol  183:108–121, 1997.
+60. Lefebvre V , Huang W, Harley VR, et al: SOX9 is a potent activator 
+of the chondrocyte-specific enhancer of the pro alpha1(II) collagen 
+gene, Mol Cell Biol  17:2336–2346, 1997.
+61. Lefebvre V , Li P , de Crombrugghe B: A new long form of Sox5 
+(L-Sox5), Sox6 and Sox9 are coexpressed in chondrogenesis and 
+cooperatively activate the type II collagen gene, EMBO J  17:5718–
+5733, 1998.
+62. Smits P , Li P , Mandel J, et al: The transcription factors L-Sox5 and 
+Sox6 are essential for cartilage formation, Dev Cell  1:277–290, 2001.
+63. Ducy P , Zhang R, Geoffroy V , et al: Osf2/Cbfa1: a transcriptional 
+activator of osteoblast differentiation, Cell 89:747–754, 1997.
+64. Otto F , Thornell AP , Crompton T, et al: Cbfa1, a candidate gene for 
+cleidocranial dysplasia syndrome, is essential for osteoblast differen -
+tiation and bone development, Cell 89:765–771, 1997.
+65. Xu SC, Harris MA, Rubenstein JLR, et al: Bone morphogenetic 
+protein-2 (BMP-2) signaling to the Col2a1  gene in chondroblasts 
+requires the homeobox gene Dlx-2 , DNA Cell Biol  20:359–365, 2001.
+66. Itoh N, Ornitz DM: Evolution of the Fgf and Fgfr gene families, 
+Trends Genet  20:563–569, 2004.
+67. Ornitz DM: FGF signaling in the developing endochondral skeleton, 
+Cytokine Growth Factor Rev  16:205–213, 2005.
+68. Beier F: Cell-cycle control and the cartilage growth plate, J Cell 
+Physiol  202:1–8, 2005.
+69. Sahni M, Ambrosetti DC, Mansukhani A, et al: FGF signaling inhib -
+its chondrocyte proliferation and regulates bone development 
+through the STAT-1 pathway, Genes Dev  13:1361–1366, 1999.
+70. Liu Z, Xu J, Colvin JS, Ornitz DM: Coordination of chondrogenesis 
+and osteogenesis by fibroblast growth factor 18, Genes Dev  16:859–
+869, 2002.
+71. Ohbayashi N, Shibayama M, Kurotaki Y, et al: FGF18 is required for 
+normal cell proliferation and differentiation during osteogenesis and 
+chondrogenesis, Genes Dev  16:870–879, 2002.
+72. Kronenberg HM: PTHrP and skeletal development, Ann N Y Acad 
+Sci 1068:1–13, 2006.
+73. McMahon AP , Ingham PW, Tabin CJ: Developmental roles and 
+clinical significance of hedgehog signaling, Curr Top Dev Biol  53:1–
+114, 2003.
+74. Vortkamp A, Lee K, Lanske B, et al: Regulation of rate of cartilage 
+differentiation by Indian hedgehog and PTH-related protein, Science  
+273:613–622, 1996.
+75. Lanske B, Karaplis AC, Lee K, et al: PTH/PTHrP receptor in early 
+development and Indian hedgehog-regulated bone growth, Science  
+273:663–666, 1996.
+76. Kobayashi T, Soegiarto DW, Yang Y, et al: Indian hedgehog stimu -
+lates periarticular chondrocyte differentiation to regulate growth 
+plate length independently of PTHrP , J Clin Invest  115:1734–1742, 
+2005.
+77. Ferguson CM, Miclau T, Hu D, et al: Common molecular pathways 
+in skeletal morphogenesis and repair, Ann N Y Acad Sci  857:33–42, 
+1998.
+78. Ballock RT, O’Keefe RJ: The biology of the growth plate, J Bone Joint 
+Surg Am  85:715–726, 2003.
+79. Provot S, Schipani E: Molecular mechanisms of endochondral bone 
+development, Biochem Biophys Res Commun  328:658–665, 2005.
+80. St-Jacques B, Hammerschmidt M, McMahon AP: Indian hedgehog 
+signaling regulates proliferation and differentiation of chondrocytes 
+and is essential for bone formation, Genes Dev  13:2072–2086, 1999.
+81. Enomoto H, Enomoto-Iwamoto M, Iwamoto M, et al: Cbfa1 is a 
+positive regulatory factor in chondrocyte maturation, J Biol Chem  
+275:8695–8702, 2000.
+82. Kim IS, Otto F , Zabel B, Mundlos S: Regulation of chondrocyte dif -
+ferentiation by Cbfa1, Mech Dev  80:159–170, 1999.
+83. Takeda S, Bonnamy JP , Owen MJ, et al: Continuous expression of 
+Cbfa1 in nonhypertrophic chondrocytes uncovers its ability to 
+induce hypertrophic chondrocyte differentiation and partially rescues 
+Cbfa1-deficient mice, Genes Dev  15:467–481, 2001.84. Colnot C: Cellular and molecular interactions regulating skeletogen -
+esis, J Cell Biochem  95:688–697, 2005.
+85. Leboy P , Grasso-Knight G, D’Angelo M, et al: Smad-Runx interac -
+tions during chondrocyte maturation, J Bone Joint Surg Am  83(Suppl 
+1):S15–S22, 2001.
+86. Zheng Q, Zhou G, Morello R, et al: Type X collagen gene regulation 
+by Runx2 contributes directly to its hypertrophic chondrocyte-
+specific expression in vivo, J Cell Biol  162:833–842, 2003.
+87. Komori T, Yagi H, Nomura S, et al: Targeted disruption of Cbfa1 
+results in a complete lack of bone formation owing to maturational 
+arrest of osteoblasts, Cell 89:755–764, 1997.
+88. Jimenez MJ, Balbin M, Lopez JM, et al: Collagenase 3 is a target of 
+Cbfa1, a transcription factor of the runt gene family involved in bone 
+formation, Mol Cell Biol  19:4431–4442, 1999.
+89. Inada M, Yasui T, Nomura S, et al: Maturational disturbance of 
+chondrocytes in Cbfa1-deficient mice, Dev Dyn  214:279–290, 
+1999.
+90. Ortega N, Behonick DJ, Werb Z: Matrix remodeling during endo -
+chondral ossification, Trends Cell Biol  14:86–93, 2004.
+91. Colnot C, Lu C, Hu D, Helms JA: Distinguishing the contributions 
+of the perichondrium, cartilage, and vascular endothelium to skeletal 
+development, Dev Biol  269:55–69, 2004.
+92. Inada M, Wang Y, Byrne MH, et al: Critical roles for collagenase-3 
+(Mmp13) in development of growth plate cartilage and in endochon -
+dral ossification, Proc Natl Acad Sci U S A  101:17192–17197, 
+2004.
+93. Stickens D, Behonick DJ, Ortega N, et al: Altered endochondral 
+bone development in matrix metalloproteinase 13-deficient mice, 
+Development  131:5883–5895, 2004.
+94. Jacenko O, Chan D, Franklin A, et al: A dominant interference 
+collagen X mutation disrupts hypertrophic chondrocyte pericellular 
+matrix and glycosaminoglycan and proteoglycan distribution in 
+transgenic mice, Am J Pathol  159:2257–2269, 2001.
+95. Gress CJ, Jacenko O: Growth plate compressions and altered hema -
+topoiesis in collagen X null mice, J Cell Biol  149:983–993, 2000.
+96. Vu TH, Shipley JM, Bergers G, et al: MMP-9/gelatinase B is a key 
+regulator of growth plate angiogenesis and apoptosis of hypertrophic 
+chondrocytes, Cell 93:411–422, 1998.
+97. Gerber HP , Vu TH, Ryan AM, et al: VEGF couples hypertrophic 
+cartilage remodeling, ossification and angiogenesis during endochon -
+dral bone formation, Nat Med  5:623–628, 1999.
+98. Maes C, Carmeliet P , Moermans K, et al: Impaired angiogenesis and 
+endochondral bone formation in mice lacking the vascular endothe -
+lial growth factor isoforms VEGF164 and VEGF188, Mech Dev  
+111:61–73, 2002.
+99. Maes C, Stockmans I, Moermans K, et al: Soluble VEGF isoforms 
+are essential for establishing epiphyseal vascularization and regulating 
+chondrocyte development and survival, J Clin Invest  113:188–199, 
+2004.
+100. Zelzer E, Olsen BR: Multiple roles of vascular endothelial growth 
+factor (VEGF) in skeletal development, growth, and repair, Curr Top 
+Dev Biol  65:169–187, 2005.
+101. Zhou Z, Apte SS, Soininen R, et al: Impaired endochondral ossifica -
+tion and angiogenesis in mice deficient in membrane-type matrix 
+metalloproteinase I, Proc Natl Acad Sci U S A  97:4052–4057, 2000.
+102. Merida-Velasco JA, Sanchez-Montesinos I, Espin-Ferra J, et al: 
+Development of the human knee joint, Anat Rec  248:269–278, 1997.
+103. Merida-Velasco JA, Sanchez-Montesinos I, Espin-Ferra J, et al: 
+Development of the human knee joint ligaments, Anat Rec  248:259–
+268, 1997.
+104. Izumi S, Takeya M, Takagi K, Takahashi K: Ontogenetic develop -
+ment of synovial A cells in fetal and neonatal rat knee joints, Cell 
+Tissue Res  262:1–8, 1990.
+105. Edwards JCW: Fibroblast biology: development and differentiation of 
+synovial fibroblasts in arthritis, Arthritis Res  2:344–347, 2000.
+106. Valencia X, Higgins JM, Kiener HP , et al: Cadherin-11 provides 
+specific cellular adhesion between fibroblast-like synoviocytes, J Exp 
+Med 200:1673–1679, 2004.
+107. Lee DM, Kiener HP , Agarwal SK, et al: Cadherin-11 in synovial 
+lining formation and pathology in arthritis, Science  315:1006–1010, 
+2007.
+108. Hukkanen M, Konttinen YT, Rees RG, et al: Distribution of nerve 
+endings and sensory neuropeptides in rat synovium, meniscus and 
+bone, Int J Tissue React  14:1–10, 1992.
+109. Holmes G, Niswander L: Expression of slit-2 and slit-3 during chick 
+development, Dev Dyn  222:301–307, 2001.19.e3 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+110. Merida-Velasco JR, Rodriguez-Vazquez JF , Merida-Velasco JA, et al: 
+Development of the human temporomandibular joint, Anat Rec  
+255:20–33, 1999.
+111. Bradley SJ: An analysis of self-differentiation of chick limb buds in 
+chorio-allantoic grafts, J Anat  107:479–490, 1970.
+112. Roberts S, Evans H, Trivedi J, Menage J: Histology and pathology of 
+the human intervertebral disc, J Bone Joint Surg Am  88(Suppl 2):10–
+14, 2006.
+113. Eyre DR, Matsui Y, Wu JJ: Collagen polymorphisms of the interver -
+tebral disc, Biochem Soc Trans  30:844–848, 2001.
+114. Hayes AJ, Benjamin M, Ralphs JR: Extracellular matrix in develop -
+ment of the intervertebral disc. Matrix Biol  20:107–121, 2001.
+115. McAlinden A, Zhu Y, Sandell LJ: Expression of type II procollagens 
+during development of the human intervertebral disc, Biochem Soc 
+Trans  30:831–838, 2001.
+116. Zhu Y, McAlinden A, Sandell LJ: Type IIA procollagen in develop -
+ment of the human intervertebral disc: regulated expression of the 
+NH(2)-propeptide by enzymic processing reveals a unique develop -
+mental pathway, Dev Dyn  220:350–362, 2001.
+117. Pizette S, Niswander L: Early steps in limb patterning and chondro -
+genesis, Novartis Found Symp  232:23–36, 2001; discussion 36–46.
+118. Benjamin M, Ralphs JR: Tendons and ligaments—an overview, Histol 
+Histopathol  12:1135–1144, 1997.
+119. Poole AR: Cartilage in health and disease. In Koopman W,  
+editor: Arthritis and allied conditions: a textbook of rheumatology , ed 15, 
+Philadelphia, 2005, Lippincott, Williams and Wilkins, pp 223–  
+269.
+120. Henderson B, Pettipher ER: The synovial lining cell: biology and 
+pathobiology, Semin Arthritis Rheum  15:1–32, 1985.
+121. Haywood L, Walsh DA: Vasculature of the normal and arthritic 
+synovial joint, Histol Histopathol  16:277–284, 2001.
+122. Tak PP , Bresnihan B: The pathogenesis and prevention of joint 
+damage in rheumatoid arthritis: advances from synovial biopsy and 
+tissue analysis, Arthritis Rheum  43:2619–2633, 2000.
+123. Firestein GS: Evolving concepts of rheumatoid arthritis, Nature  
+423:356–361, 2003.
+124. Meyer LH, Franssen L, Pap T: The role of mesenchymal cells in the 
+pathophysiology of inflammatory arthritis, Best Pract Res Clin Rheu -
+matol  20:969–981, 2006.
+125. Knedla A, Neumann E, Muller-Ladner U: Developments in the syno -
+vial biology field 2006, Arthritis Res Ther  9:209, 2007.
+126. Szekanecz Z, Koch AE: Macrophages and their products in rheuma -
+toid arthritis, Curr Opin Rheumatol  19:289–295, 2007.
+127. Bassleer R, Lhosest-Gauthier M-P , Renard A-M, et al: Histological 
+structure and functions of synovium. In Franchimont P , editor: Artic -
+ular synovium , Basel, Switzerland, 1982, Karger, pp 1–26.
+128. Pasquali-Ronchetti I, Frizziero L, Guerra D, et al: Aging of the human 
+synovium: an in vivo and ex vivo morphological study, Semin Arthritis 
+Rheum  21:400–414, 1992.
+129. Barland P , Novikoff AB, Hamerman D: Electron microscopy of the 
+human synovial membrane, J Cell Biol  14:207–220, 1962.
+130. Wilkinson LS, Pitsillides AA, Worrall JG, Edwards JC: Light micro -
+scopic characterization of the fibroblast-like synovial intimal cell 
+(synoviocyte), Arthritis Rheum  35:1179–1184, 1992.
+131. Smith MD, Barg E, Weedon H, et al: Microarchitecture and protec -
+tive mechanisms in synovial tissue from clinically and arthroscopi -
+cally normal knee joints, Ann Rheum Dis  62:303–307, 2003.
+132. Naito M, Umeda S, Takahashi K, Shultz LD: Macrophage differentia -
+tion and granulomatous inflammation in osteopetrotic mice (op/op) 
+defective in the production of CSF-1, Mol Reprod Dev  46:85–91, 
+1997.
+133. Smith SC, Folefac VA, Osei DK, Revell PA: An immunocytochemi -
+cal study of the distribution of proline-4-hydroxylase in normal, 
+osteoarthritic and rheumatoid arthritic synovium at both the light 
+and electron microscopic level, Br J Rheumatol  37:287–291, 1998.
+134. Qu Z, Garcia CH, O’Rourke LM, et al: Local proliferation of 
+fibroblast-like synoviocytes contributes to synovial hyperplasia: 
+results of proliferating cell nuclear antigen/cyclin, c-myc, and nucleo -
+lar organizer region staining, Arthritis Rheum  37:212–220, 1994.
+135. Walsh DA, Mapp PI, Wharton J, et al: Neuropeptide degrading 
+enzymes in normal and inflamed human synovium, Am J Pathol  
+142:1610–1621, 1993.
+136. Morales-Ducret J, Wayner E, Elices MJ, et al: Alpha 4/beta 1 integrin 
+(VLA-4) ligands in arthritis: vascular cell adhesion molecule-1 
+expression in synovium and on fibroblast-like synoviocytes, J Immunol  
+149:1424–1431, 1992.137. Demaziere A, Athanasou NA: Adhesion receptors of intimal and 
+subintimal cells of the normal synovial membrane, J Pathol  168:209–
+215, 1992.
+138. Johnson BA, Haines GK, Harlow LA, Koch AE: Adhesion molecule 
+expression in human synovial tissue, Arthritis Rheum  36:137–146, 
+1993.
+139. Kiener HP , Niederreiter B, Lee DM, et al: Cadherin 11 promotes 
+invasive behavior of fibroblast-like synoviocytes, Arthritis Rheum  
+60:1305–1310, 2009.
+140. Simkin PA: Physiology of normal and abnormal synovium, Semin 
+Arthritis Rheum  21:179–183, 1991.
+141. Firestein GS: Starving the synovium: angiogenesis and inflammation 
+in rheumatoid arthritis, J Clin Invest  103:3–4, 1999.
+142. Walsh DA: Angiogenesis and arthritis, Rheumatology (Oxford)  
+38:103–112, 1999.
+143. Walsh DA, Wade M, Mapp PI, Blake DR: Focally regulated endo -
+thelial proliferation and cell death in human synovium, Am J Pathol  
+152:691–702, 1998.
+144. Koch AE: Review. Angiogenesis: implications for rheumatoid arthri -
+tis, Arthritis Rheum  41:951–962, 1998.
+145. Storgard CM, Stupack DG, Jonczyk A, et al: Decreased angiogenesis 
+and arthritic disease in rabbits treated with an alphavbeta3 antago -
+nist, J Clin Invest  103:47–54, 1999.
+146. Uchida T, Nakashima M, Hirota Y, et al: Immunohistochemical 
+localisation of protein tyrosine kinase receptors Tie-1 and Tie-2 in 
+synovial tissue of rheumatoid arthritis: correlation with angiogenesis 
+and synovial proliferation, Ann Rheum Dis  59:607–614, 2000.
+147. Gravallese EM, Pettit AR, Lee R, et al: Angiopoietin-1 is expressed 
+in the synovium of patients with rheumatoid arthritis and is induced 
+by tumour necrosis factor alpha, Ann Rheum Dis  62:100–107, 2003.
+148. Mapp PI: Innervation of the synovium, Ann Rheum Dis  54:398–403, 
+1995.
+149. Seegers HC, Hood VC, Kidd BL, et al: Enhancement of angiogenesis 
+by endogenous substance P release and neurokinin-1 receptors during 
+neurogenic inflammation, J Pharmacol Exp Ther  306:8–12, 2003.
+150. Walsh DA, Catravas J, Wharton J: Angiotensin converting enzyme 
+in human synovium: increased stromal [(125)I]351A binding in rheu -
+matoid arthritis, Ann Rheum Dis  59:125–131, 2000.
+151. Mapp PI, Klocke R, Walsh DA, et al: Localization of 3-nitrotyrosine 
+to rheumatoid and normal synovium, Arthritis Rheum  44:1534–1539, 
+2001.
+152. Pablos JL, Santiago B, Galindo M, et al: Synoviocyte-derived 
+CXCL12 is displayed on endothelium and induces angiogenesis in 
+rheumatoid arthritis, J Immunol  170:2147–2152, 2003.
+153. Ferrell WR, Crighton A, Sturrock RD: Position sense at the proximal 
+interphalangeal joint is distorted in patients with rheumatoid arthri -
+tis of finger joints, Exp Physiol  77:675–680, 1992.
+154. Dee R: Structure and function of hip joint innervation, Ann R Coll 
+Surg Engl  45:357–374, 1969.
+155. Buma P , Verschuren C, Versleyen D, et al: Calcitonin gene-related 
+peptide, substance P and GAP-43/B-50 immunoreactivity in the 
+normal and arthrotic knee joint of the mouse, Histochemistry  98:327–
+339, 1992.
+156. Hukkanen M, Platts LA, Corbett SA, et al: Reciprocal age-related 
+changes in GAP-43/B-50, substance P and calcitonin gene-related 
+peptide (CGRP) expression in rat primary sensory neurones and their 
+terminals in the dorsal horn of the spinal cord and subintima of the 
+knee synovium, Neurosci Res  42:251–260, 2002.
+157. McDougall JJ, Watkins L, Li Z: Vasoactive intestinal peptide (VIP) 
+is a modulator of joint pain in a rat model of osteoarthritis, Pain 
+123:98–105, 2006.
+158. Niissalo S, Hukkanen M, Imai S, et al: Neuropeptides in experimen -
+tal and degenerative arthritis, Ann N Y Acad Sci  966:384–399, 2002.
+159. Saito T, Koshino T: Distribution of neuropeptides in synovium of the 
+knee with osteoarthritis, Clin Orthop Relat Res  (376):172–182, 2000.
+160. New HV , Mudge A W: Calcitonin gene-related peptide regulates 
+muscle acetylcholine receptor synthesis, Nature  323:809–811, 1986.
+161. Schaible HG, Ebersberger A, Von Banchet GS: Mechanisms of pain 
+in arthritis, Ann N Y Acad Sci  966:343–354, 2002.
+162. McDougall JJ: Arthritis and pain: neurogenic origin of joint pain, 
+Arthritis Res Ther  8:220, 2006.
+163. Coggeshall RE, Hong KA, Langford LA, et al: Discharge character -
+istics of fine medial articular afferents at rest and during passive 
+movements of inflamed knee joints, Brain Res  272:185–188, 1983.
+164. Benjamin M, Ralphs JR: The cell and developmental biology of 
+tendons and ligaments, Int Rev Cytol  196:85–130, 2000.19.e4 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+165. Wang JH: Mechanobiology of tendon, J Biomech  39:1563–1582, 
+2006.
+166. Vogel KG, Peters JA: Histochemistry defines a proteoglycan-rich 
+layer in bovine flexor tendon subjected to bending, J Musculoskelet 
+Neuronal Interact  5:64–69, 2005.
+167. Knott L, Tarlton JF , Bailey AJ: Chemistry of collagen cross-linking: 
+biochemical changes in collagen during the partial mineralization of 
+turkey leg tendon, Biochem J  322(Pt 2):535–542, 1997.
+168. Ng GY, Oakes BW, Deacon OW, et al: Long-term study of the bio -
+chemistry and biomechanics of anterior cruciate ligament-patellar 
+tendon autografts in goats, J Orthop Res  14:851–856, 1996.
+169. Canty EG, Starborg T, Lu Y, et al: Actin filaments are required for 
+fibripositor-mediated collagen fibril alignment in tendon, J Biol Chem  
+281:38592–38598, 2006.
+170. Richardson SH, Starborg T, Lu Y, et al: Tendon development requires 
+regulation of cell condensation and cell shape via cadherin-11-  
+mediated cell-cell junctions, Mol Cell Biol  27:6218–6228, 2007.
+171. Kannus P , Jozsa L, Kvist M, et al: The effect of immobilization on 
+myotendinous junction: an ultrastructural, histochemical and immu -
+nohistochemical study, Acta Physiol Scand  144:387–394, 1992.
+172. Tan AL, Toumi H, Benjamin M, et al: Combined high-resolution 
+magnetic resonance imaging and histological examination to explore 
+the role of ligaments and tendons in the phenotypic expression of 
+early hand osteoarthritis, Ann Rheum Dis  65:1267–1272, 2006.
+173. Dalton S, Cawston TE, Riley GP , et al: Human shoulder tendon 
+biopsy samples in organ culture produce procollagenase and tissue 
+inhibitor of metalloproteinases, Ann Rheum Dis  54:571–577, 1995.
+174. Jain A, Nanchahal J, Troeberg L, et al: Production of cytokines, 
+vascular endothelial growth factor, matrix metalloproteinases, and 
+tissue inhibitor of metalloproteinases 1 by tenosynovium demon -
+strates its potential for tendon destruction in rheumatoid arthritis, 
+Arthritis Rheum  44:1754–1760, 2001.
+175. Tillander B, Franzen L, Norlin R: Fibronectin, MMP-1 and histologic 
+changes in rotator cuff disease, J Orthop Res  20:1358–1364, 2002.
+176. Jarvinen TA, Jozsa L, Kannus P , et al: Mechanical loading regulates 
+the expression of tenascin-C in the myotendinous junction and 
+tendon but does not induce de novo synthesis in the skeletal muscle, 
+J Cell Sci  116:857–866, 2003.
+177. Berenson MC, Blevins FT, Plaas AH, Vogel KG: Proteoglycans of 
+human rotator cuff tendons, J Orthop Res  14:518–525, 1996.
+178. Waggett AD, Ralphs JR, Kwan AP , et al: Characterization of colla -
+gens and proteoglycans at the insertion of the human Achilles 
+tendon, Matrix Biol  16:457–470, 1998.
+179. Fukuta S, Oyama M, Kavalkovich K, et al: Identification of types II, 
+IX and X collagens at the insertion site of the bovine achilles tendon, 
+Matrix Biol  17:65–73, 1998.
+180. Vogel KG, Meyers AB: Proteins in the tensile region of adult bovine 
+deep flexor tendon, Clin Orthop Relat Res  367:S344–S355, 1999.
+181. Thomopoulos S, Marquez JP , Weinberger B, et al: Collagen fiber 
+orientation at the tendon to bone insertion and its influence on stress 
+concentrations, J Biomech  39:1842–1851, 2006.
+182. Rodeo SA, Kawamura S, Kim HJ, et al: Tendon healing in a bone 
+tunnel differs at the tunnel entrance versus the tunnel exit: an effect 
+of graft-tunnel motion? Am J Sports Med  34:1790–1800, 2006.
+183. Sharma P , Maffulli N: Biology of tendon injury: healing, modeling 
+and remodeling, J Musculoskelet Neuronal Interact  6:181–190, 2006.
+184. Rees JD, Wilson AM, Wolman RL: Current concepts in the manage -
+ment of tendon disorders, Rheumatology (Oxford)  45:508–521, 2006.
+185. Kumagai J, Sarkar K, Uhthoff HK: The collagen types in the attach -
+ment zone of rotator cuff tendons in the elderly: an immunohisto -
+chemical study, J Rheumatol  21:2096–2100, 1994.
+186. Hoffmann A, Pelled G, Turgeman G, et al: Neotendon formation 
+induced by manipulation of the Smad8 signalling pathway in mesen -
+chymal stem cells, J Clin Invest  116:940–952, 2006.
+187. Woo SL, Abramowitch SD, Kilger R, Liang R: Biomechanics of knee 
+ligaments: injury, healing, and repair, J Biomech  39:1–20, 2006.
+188. Hoffmann A, Gross G: Tendon and ligament engineering: from cell 
+biology to in vivo application, Regen Med  1:563–574, 2006.
+189. Bland YS, Ashhurst DE: Changes in the distribution of fibrillar col -
+lagens in the collateral and cruciate ligaments of the rabbit knee joint 
+during fetal and postnatal development, Histochem J  28:325–334, 
+1996.
+190. Nawata K, Minamizaki T, Yamashita Y, Teshima R: Development of 
+the attachment zones in the rat anterior cruciate ligament: changes 
+in the distributions of proliferating cells and fibrillar collagens during 
+postnatal growth, J Orthop Res  20:1339–1344, 2002.191. Frank CB, Hart DA, Shrive NG: Molecular biology and biomechan -
+ics of normal and healing ligaments—a review, Osteoarthritis Cartilage  
+7:130–140, 1999.
+192. Kaufmann P , Bose P , Prescher A: New insights into the soft-tissue 
+anatomy anterior to the patella, Lancet  363:586, 2004.
+193. Arnoczky SP , McDevitt CA: The meniscus: structure, function 
+repair, and replacement. In Buckwalter JL, Einhorn TA, Simon SR, 
+editors: Orthopaedic basic science: biology and biomechanics of the mus -
+culoskeletal system , Park Ridge, Ill, 2000, American Academy of 
+Orthopaedic Surgeons, pp 531–546.
+194. Sweigart MA, Athanasiou KA: Toward tissue engineering of the knee 
+meniscus, Tissue Eng  7:111–129, 2001.
+195. Fairbank T: Knee joint changes after meniscectomy, J Bone Joint Surg 
+Br 30:664, 1948.
+196. Murrell GA, Maddali S, Horovitz L, et al: The effects of time course 
+after anterior cruciate ligament injury in correlation with meniscal 
+and cartilage loss, Am J Sports Med  29:9–14, 2001.
+197. Messner K, Gao J: The menisci of the knee joint: anatomical and 
+functional characteristics, and a rationale for clinical treatment,  
+J Anat  193(Pt 2):161–178, 1998.
+198. Mine T, Kimura M, Sakka A, Kawai S: Innervation of nociceptors in 
+the menisci of the knee joint: an immunohistochemical study, Arch 
+Orthop Trauma Surg  120:201–204, 2000.
+199. Arnoczky SP , Warren RF: The microvasculature of the meniscus and 
+its response to injury: an experimental study in the dog, Am J Sports 
+Med 11:131–141, 1983.
+200. Eyre DR, Muir H: The distribution of different molecular species of 
+collagen in fibrous, elastic and hyaline cartilages of the pig, Biochem 
+J 151:595–602, 1975.
+201. McDevitt CA, Mukherjee S, Kambic H, Parker R: Emerging concepts 
+of the cell biology of the meniscus, Curr Opin Orthop  13:345–350, 
+2002.
+202. Petersen W, Tillmann B: Collagenous fibril texture of the human 
+knee joint menisci, Anat Embryol (Berl)  197:317–324, 1998.
+203. Fithian DC, Kelly MA, Mow VC: Material properties and structure-
+function relationships in the menisci, Clin Orthop Relat Res  252:19–
+31, 1990.
+204. Roughley PJ, White RJ: The dermatan sulfate proteoglycans of the 
+adult human meniscus, J Orthop Res  10:631–637, 1992.
+205. Bland YS, Ashhurst DE: Changes in the content of the fibrillar col -
+lagens and the expression of their mRNAs in the menisci of the 
+rabbit knee joint during development and ageing, Histochem J  
+28:265–274, 1996.
+206. McAlinden A, Dudhia J, Bolton MC, et al: Age-related changes in 
+the synthesis and mRNA expression of decorin and aggrecan in 
+human meniscus and articular cartilage, Osteoarthritis Cartilage  9:33–
+41, 2001.
+207. Ghadially FN, Lalonde JM, Wedge JH: Ultrastructure of normal and 
+torn menisci of the human knee joint, J Anat  136(Pt 4):773–791, 
+1993.
+208. Hellio Le Graverand MP , Ou Y, Schield-Yee T, et al: The cells  
+of the rabbit meniscus: their arrangement, interrelationship,  
+morphological variations and cytoarchitecture, J Anat  198:525–535, 
+1991.
+209. Kambic HE, Futani H, McDevitt CA: Cell, matrix changes and 
+alpha-smooth muscle actin expression in repair of the canine menis -
+cus, Wound Repair Regen  8:554–561, 2000.
+210. Ahluwalia S, Fehm M, Murray MM, et al: Distribution of smooth 
+muscle actin-containing cells in the human meniscus, J Orthop Res  
+19:659–664, 2001.
+211. Benedek TG: A history of the understanding of cartilage, Osteoar -
+thritis Cartilage  14:203–209, 2006.
+212. Goldring SR: Role of bone in osteoarthritis pathogenesis, Med Clin 
+North Am  93:25–35, xv, 2009.
+213. Goldring MB, Goldring SR: Articular cartilage and subchondral 
+bone in the pathogenesis of osteoarthritis, Ann N Y Acad Sci  
+1192:230–237, 2010.
+214. Bailey AJ, Mansell JP , Sims TJ, Banse X: Biochemical and mechani -
+cal properties of subchondral bone in osteoarthritis, Biorheology  
+41:349–358, 2004.
+215. Green WT Jr, Martin GN, Eanes ED, Sokoloff L: Microradiographic 
+study of the calcified layer of articular cartilage, Arch Pathol  90:151–
+158, 1970.
+216. Reimann I, Mankin HJ, Trahan C: Quantitative histologic analyses 
+of articular cartilage and subchondral bone from osteoarthritic and 
+normal human hips, Acta Orthop Scand  48:63–73, 1977.19.e5 CHAPTER 1 | BIOlOgy OF THE NORmAl JOINT
+217. Radin EL, Rose RM: Role of subchondral bone in the initiation and 
+progression of cartilage damage, Clin Orthop Relat Res  (213):34–40, 
+1986.
+218. Burr DB: Anatomy and physiology of the mineralized tissues: role in 
+the pathogenesis of osteoarthrosis, Osteoarthritis Cartilage  12(Suppl 
+A):S20–S30, 2004.
+219. Buckland-Wright C: Subchondral bone changes in hand and knee 
+osteoarthritis detected by radiography, Osteoarthritis Cartilage  
+12(Suppl A):S10–S19, 2004.
+220. Mrosek EH, Lahm A, Erggelet C, et al: Subchondral bone trauma 
+causes cartilage matrix degeneration: an immunohistochemical anal -
+ysis in a canine model, Osteoarthritis Cartilage  14:171–178, 2006.
+221. Lane LB, Villacin A, Bullough PG: The vascularity and remodelling 
+of subchondrial bone and calcified cartilage in adult human femoral 
+and humeral heads: an age- and stress-related phenomenon, J Bone 
+Joint Surg Br  59:272–278, 1977.
+222. Walsh DA, Bonnet CS, Turner EL, et al: Angiogenesis in the 
+synovium and at the osteochondral junction in osteoarthritis, Osteo -
+arthritis Cartilage  15:743–751, 2007.
+223. Bullough PG: The role of joint architecture in the etiology of arthri -
+tis, Osteoarthritis Cartilage  12(Suppl A):S2–S9, 2004.
+224. Messent EA, Ward RJ, Tonkin CJ, Buckland-Wright C: Differences 
+in trabecular structure between knees with and without osteoarthritis 
+quantified by macro and standard radiography, respectively, Osteoar -
+thritis Cartilage  14:1302–1305, 2006.
+225. Coats AM, Zioupos P , Aspden RM: Material properties of subchon -
+dral bone from patients with osteoporosis or osteoarthritis by micro -
+indentation testing and electron probe microanalysis, Calcif Tissue Int  
+73:66–71, 2003.
+226. Goldring SR, Goldring MB: Bone and cartilage in osteoarthritis: is 
+what’s best for one good or bad for the other? Arthritis Res Ther  
+12:143, 2010.
+227. El Hajjaji H, Williams JM, Devogelaer JP , et al: Treatment with 
+calcitonin prevents the net loss of collagen, hyaluronan and  
+proteoglycan aggregates from cartilage in the early stages of canine 
+experimental osteoarthritis, Osteoarthritis Cartilage  12:904–911, 
+2004.
+228. Bagger YZ, Tanko LB, Alexandersen P , et al: Oral salmon calcitonin 
+induced suppression of urinary collagen type II degradation in post -
+menopausal women: a new potential treatment of osteoarthritis, Bone  
+37:425–430, 2005.
+229. Spector TD: Bisphosphonates: potential therapeutic agents for 
+disease modification in osteoarthritis, Aging Clin Exp Res  15:413–418, 
+2003.
+230. Ham KD, Carlson CS: Effects of estrogen replacement therapy on 
+bone turnover in subchondral bone and epiphyseal metaphyseal can -
+cellous bone of ovariectomized cynomolgus monkeys, J Bone Miner 
+Res 19:823–829, 2004.
+231. Komuro H, Olee T, Kuhn K, et al: The osteoprotegerin/receptor 
+activator of nuclear factor kappaB/receptor activator of nuclear factor 
+kappaB ligand system in cartilage, Arthritis Rheum  44:2768–2776, 
+2001.
+232. Pettit AR, Ji H, von Stechow D, et al: TRANCE/RANKL knockout 
+mice are protected from bone erosion in a serum transfer model of 
+arthritis, Am J Pathol  159:1689–1699, 2001.
+233. Zwerina J, Hayer S, Redlich K, et al: Activation of p38 MAPK is a 
+key step in tumor necrosis factor-mediated inflammatory bone 
+destruction, Arthritis Rheum  54:463–472, 2006.
+234. Simkin PA, Bassett JE, Koh EM: Synovial perfusion in the human 
+knee: a methodologic analysis, Semin Arthritis Rheum  25:56–66, 1995.
+235. Kushner I, Somerville JA: Permeability of human synovial membrane 
+to plasma proteins: relationship to molecular size and inflammation, 
+Arthritis Rheum  14:560–570, 1971.
+236. Simkin PA: Fluid dynamics of the joint space and trafficking of 
+matrix products. In Seibel MJ, Robins SP , Bilezekian JP , editors: 
+Dynamics of bone and cartilage metabolism , 2nd ed, New York, 2006, 
+Academic Press, pp 451–456.
+237. Levick JR: A method for estimating macromolecular reflection by 
+human synovium, using measurements of intra-articular half lives, 
+Ann Rheum Dis  57:339–344, 1998.
+238. Levick JR, McDonald JN: Fluid movement across synovium in 
+healthy joints: role of synovial fluid macromolecules, Ann Rheum Dis  
+54:417–423, 1995.
+239. Myers SL, Brandt KD: Effects of synovial fluid hyaluronan concentra -
+tion and molecular size on clearance of protein from the canine knee, 
+J Rheumatol  22:1732–1739, 1995.240. Gaffney K, Williams RB, Jolliffe VA, Blake DR: Intra-articular pres -
+sure changes in rheumatoid and normal peripheral joints, Ann Rheum 
+Dis 54:670–673, 1995.
+241. Wallis WJ, Simkin PA, Nelp WB: Protein traffic in human synovial 
+effusions, Arthritis Rheum  30:57–63, 1987.
+242. Myers SL, O’Connor BL, Brandt KD: Accelerated clearance of 
+albumin from the osteoarthritic knee: implications for interpretation 
+of concentrations of “cartilage markers” in synovial fluid, J Rheumatol  
+23:1744–1748, 1996.
+243. Gobezie R, Kho A, Krastins B, et al: High abundance synovial fluid 
+proteome: distinct profiles in health and osteoarthritis, Arthritis Res 
+Ther 9:R36, 2007.
+244. Hlavacek M: The role of synovial fluid filtration by cartilage in 
+lubrication of synovial joints. II. Squeeze-film lubrication: homoge -
+neous filtration, J Biomech  26:1151–1160, 1993.
+245. Jin ZM, Dowson D, Fisher J: The effect of porosity of articular carti -
+lage on the lubrication of a normal human hip joint, Proc Inst Mech 
+Eng [H]  206:117–124, 1992.
+246. Swann DA, Silver FH, Slayter HS, et al: The molecular structure and 
+lubricating activity of lubricin isolated from bovine and human syno -
+vial fluids, Biochem J  225:195–201, 1985.
+247. Jay GD, Tantravahi U, Britt DE, et al: Homology of lubricin and 
+superficial zone protein (SZP): products of megakaryocyte stimulating 
+factor (MSF) gene expression by human synovial fibroblasts and 
+articular chondrocytes localized to chromosome 1q25, J Orthop Res  
+19:677–687, 2001.
+248. Flannery CR, Hughes CE, Schumacher BL, et al: Articular cartilage 
+superficial zone protein (SZP) is homologous to megakaryocyte stim -
+ulating factor precursor and is a multifunctional proteoglycan with 
+potential growth-promoting, cytoprotective, and lubricating proper -
+ties in cartilage metabolism, Biochem Biophys Res Commun  254:535–
+541, 1999.
+249. Ikegawa S, Sano M, Koshizuka Y, Nakamura Y: Isolation, character -
+ization and mapping of the mouse and human PRG4 (proteoglycan 
+4) genes, Cytogenet Cell Genet  90:291–297, 2000.
+250. Schmidt TA, Schumacher BL, Klein TJ, et al: Synthesis of proteo -
+glycan 4 by chondrocyte subpopulations in cartilage explants, mono -
+layer cultures, and resurfaced cartilage cultures, Arthritis Rheum  
+50:2849–2857, 2004.
+251. Funakoshi T, Spector M: Chondrogenic differentiation and lubricin 
+expression of caprine infraspinatus tendon cells, J Orthop Res  28:716–
+725, 2010.
+252. Shine KM, Simson JA, Spector M: Lubricin distribution in the 
+human intervertebral disc, J Bone Joint Surg Am  91:2205–2212, 2009.
+253. Jay GD, Lane BP , Sokoloff L: Characterization of a bovine synovial 
+fluid lubricating factor. III. The interaction with hyaluronic acid, 
+Connect Tissue Res  28:245–255, 1992.
+254. Williams PF 3rd, Powell GL, LaBerge M: Sliding friction analysis of 
+phosphatidylcholine as a boundary lubricant for articular cartilage, 
+Proc Inst Mech Eng [H]  207:59–66, 1993.
+255. Hills BA: Boundary lubrication in vivo. Proc Inst Mech Eng  
+2000;214:83-94.
+256. Jay GD, Harris DA, Cha CJ: Boundary lubrication by lubricin is 
+mediated by O-linked beta(1-3)Gal-GalNAc oligosaccharides, Gly-
+coconj J  18:807–815, 2001.
+257. Stockwell RA: Lipid content of human costal and articular cartilage, 
+Ann Rheum Dis  26:481–486, 1967.
+258. Pickard JE, Fisher J, Ingham E, Egan J: Investigation into the effects 
+of proteins and lipids on the frictional properties of articular cartilage, 
+Biomaterials  19:1807–1812, 1998.
+259. Hunter W: On the structure and diseases of articulating cartilage, 
+Philos Trans R Soc Lond Biol  42:514, 1743.
+260. Brem H, Folkman J: Inhibition of tumor angiogenesis mediated by 
+cartilage, J Exp Med  141:427–439, 1975.
+261. Kuettner KE, Pauli BU: Inhibition of neovascularization by a carti -
+lage factor, Ciba Found Symp  100:163–173, 1983.
+262. Moses MA, Sudhalter J, Langer R: Identification of an inhibitor  
+of neovascularization from cartilage, Science  248:1408–1410, 
+1990.
+263. Pita JC, Howell DS: Micro-biochemical studies of cartilage. In Sokol -
+off L, editor: The joints and synovial fluid , New York, 1978, Academic 
+Press, p 273.
+264. Bywaters E: The metabolism of joint tissues, J Pathol Bacteriol  44:247, 
+1937.
+265. Naughton DP , Haywood R, Blake DR, et al: A comparative evalua -
+tion of the metabolic profiles of normal and inflammatory knee-joint 19.e6 PART 1 | STRUCTURE AND FUNCTION OF BONE, JOINTS, AND CONNECTIVE TISSUE
+synovial fluids by high resolution proton NMR spectroscopy, FEBS 
+Lett 332:221–225, 1993.
+266. Strangeways T: The nutrition of the articular cartilage, Br Med J  
+1:661, 1920.
+267. Maroudas A, Bullough P , Swanson SA, Freeman MA: The permeabil -
+ity of articular cartilage, J Bone Joint Surg Br  50:166–177, 1968.
+268. Hadler NM: Synovial fluids facilitate small solute diffusivity, Ann 
+Rheum Dis  39:580–585, 1980.
+269. O’Hara BP , Urban JP , Maroudas A: Influence of cyclic loading on the 
+nutrition of articular cartilage, Ann Rheum Dis  49:536–539, 1990.
+270. Lewis P , McCutchen CW: Experimental evidence for weeping lubri -
+cation in mammalian joints, Nature  184:1285, 1959.271. Mital MA, Millington PF: Osseous pathway of nutrition to articular 
+cartilage of the human femoral head, Lancet  1:842, 1970.
+272. Bromley M, Bertfield H, Evanson JM, Woolley DE: Bidirectional 
+erosion of cartilage in the rheumatoid knee joint, Ann Rheum Dis  
+44:676–681, 1985.
+273. Lane LB, Bullough PG: Age-related changes in the thickness of the 
+calcified zone and the number of tidemarks in adult human articular 
+cartilage, J Bone Joint Surg Br  62:372–375, 1980.
+274. Neusel E, Graf J: The influence of subchondral vascularisation on 
+chondromalacia patellae, Arch Orthop Trauma Surg  115:313–315, 
+1996.

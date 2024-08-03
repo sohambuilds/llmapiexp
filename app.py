@@ -21,7 +21,6 @@ def calculate_rouge_scores(reference, hypothesis):
     return scores
 
 # Function to initialize conversation chain with GROQ language model
-# groq_api_key = "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"
 
 llm_groq = ChatGroq(model="llama3-8b-8192",
                     groq_api_key=key)
@@ -70,10 +69,17 @@ if uploaded_file:
         pdf_text = ""
         for page in pdf.pages:
             pdf_text += page.extract_text()
+        
+        with open('file.txt', 'w',encoding='utf-8') as file:
+          file.write(pdf_text+ '\n')
+
+
+        print(pdf_text)
 
         # Split the text into chunks
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=50)
         texts = text_splitter.split_text(pdf_text)
+
 
         # Create metadata for each chunk
         metadatas = [{"source": f"{i}-pl"} for i in range(len(texts))]
@@ -105,7 +111,7 @@ if uploaded_file:
     st.success(f"Processing `{uploaded_file.name}` done. You can now ask questions!")
 
     user_input = st.text_input("Ask a question about the PDF:")
-
+ 
     if user_input:
         # Call the chain with user's message content
         res = chain.invoke(user_input)
