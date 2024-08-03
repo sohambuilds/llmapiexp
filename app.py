@@ -21,6 +21,10 @@ def calculate_rouge_scores(reference, hypothesis):
     return scores
 
 # Function to initialize conversation chain with GROQ language model
+<<<<<<< HEAD
+=======
+
+>>>>>>> e489b4d07f69b7ab575c58b6a12fddd4b4990512
 
 llm_groq = ChatGroq(model="llama3-8b-8192",
                     groq_api_key=key)
